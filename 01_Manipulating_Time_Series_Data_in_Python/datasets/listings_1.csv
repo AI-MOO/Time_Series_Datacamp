@@ -1,0 +1,1016 @@
+﻿Stock Symbol,Exchange,Company Name,Last Sale,Market Capitalization,IPO Year,Sector,Industry
+ACU,amex,Acme United Corporation.,27.39,91.14,1988,Capital Goods,Industrial Machinery/Components
+ROX,amex,"Castle Brands, Inc.",1.46,237.64,2006,Consumer Non-Durables,Beverages (Production/Distribution)
+CQP,amex,"Cheniere Energy Partners, LP",32.70,11046.92,2007,Public Utilities,Oil/Gas Transmission
+CIX,amex,CompX International Inc.,14.35,178.21,1998,Capital Goods,Industrial Machinery/Components
+GSAT,amex,"Globalstar, Inc.",1.73,1931.55,2006,Consumer Services,Telecommunications Equipment
+SIM,amex,"Grupo Simec, S.A. de C.V.",12.80,2123.56,1993,Basic Industries,Steel/Iron Ore
+IMH,amex,"Impac Mortgage Holdings, Inc.",12.36,198.07,1997,Consumer Services,Real Estate Investment Trusts
+IDN,amex,"Intellicheck Mobilisa, Inc.",3.19,34.27,1999,Technology,Computer Software: Prepackaged Software
+INS,amex,Intelligent Systems Corporation,4.69,41.01,1992,Technology,Computer Software: Prepackaged Software
+INTT,amex,inTest Corporation,6.28,65.27,1997,Capital Goods,Electrical Products
+LBY,amex,"Libbey, Inc.",13.82,302.70,1993,Capital Goods,Industrial Machinery/Components
+NBY,amex,"NovaBay Pharmaceuticals, Inc.",3.70,56.57,2007,Health Care,Major Pharmaceuticals
+TIS,amex,Orchids Paper Products Company,22.93,236.25,2005,Basic Industries,Paper
+SEB,amex,Seaboard Corporation,3933.00,4603.77,1996,Finance,Investment Bankers/Brokers/Service
+VSR,amex,"Versar, Inc.",1.27,12.64,1986,Consumer Services,Military/Government/Technical
+AAPL,nasdaq,Apple Inc.,141.05,740024.47,1980,Technology,Computer Manufacturing
+GOOG,nasdaq,Alphabet Inc.,823.56,569426.12,2004,Technology,"Computer Software: Programming, Data Processing"
+MSFT,nasdaq,Microsoft Corporation,64.95,501903.06,1986,Technology,Computer Software: Prepackaged Software
+AMZN,nasdaq,"Amazon.com, Inc.",884.67,422138.53,1997,Consumer Services,Catalog/Specialty Distribution
+CSCO,nasdaq,"Cisco Systems, Inc.",32.42,162354.70,1990,Technology,Computer Communications Equipment
+AMGN,nasdaq,Amgen Inc.,161.61,118927.21,1983,Health Care,Biotechnology: Biological Products (No Diagnos...
+CELG,nasdaq,Celgene Corporation,124.45,96817.93,1987,Health Care,Major Pharmaceuticals
+GILD,nasdaq,"Gilead Sciences, Inc.",66.51,86944.31,1992,Health Care,Biotechnology: Biological Products (No Diagnos...
+PCLN,nasdaq,The Priceline Group Inc.,1738.77,85496.05,1999,Miscellaneous,Business Services
+AVGO,nasdaq,Broadcom Limited,211.32,84815.92,2009,Technology,Semiconductors
+SBUX,nasdaq,Starbucks Corporation,57.51,83815.07,1992,Consumer Services,Restaurants
+QCOM,nasdaq,QUALCOMM Incorporated,52.79,77973.00,1991,Technology,Radio And Television Broadcasting And Communic...
+ADBE,nasdaq,Adobe Systems Incorporated,129.05,63840.78,1986,Technology,Computer Software: Prepackaged Software
+NFLX,nasdaq,"Netflix, Inc.",142.92,61514.42,2002,Consumer Services,Consumer Electronics/Video Chains
+NVDA,nasdaq,NVIDIA Corporation,95.49,56772.34,1999,Technology,Semiconductors
+BIDU,nasdaq,"Baidu, Inc.",172.61,47500.89,2005,Technology,"Computer Software: Programming, Data Processing"
+YHOO,nasdaq,Yahoo! Inc.,46.90,44859.25,1996,Technology,EDP Services
+AMAT,nasdaq,"Applied Materials, Inc.",37.52,40515.26,1972,Technology,Semiconductors
+ESRX,nasdaq,Express Scripts Holding Company,66.47,39902.79,1992,Health Care,Medical/Nursing Services
+CME,nasdaq,CME Group Inc.,115.87,39372.42,2002,Finance,Investment Bankers/Brokers/Service
+REGN,nasdaq,"Regeneron Pharmaceuticals, Inc.",370.37,39289.13,1991,Health Care,Major Pharmaceuticals
+EBAY,nasdaq,eBay Inc.,34.33,37051.84,1998,Miscellaneous,Business Services
+CTSH,nasdaq,Cognizant Technology Solutions Corporation,58.35,35513.98,1998,Technology,EDP Services
+EQIX,nasdaq,"Equinix, Inc.",399.11,31013.55,2000,Consumer Services,Real Estate Investment Trusts
+INTU,nasdaq,Intuit Inc.,117.89,30154.53,1993,Technology,Computer Software: Prepackaged Software
+DISH,nasdaq,DISH Network Corporation,62.38,29030.72,1995,Consumer Services,Television Services
+VRTX,nasdaq,Vertex Pharmaceuticals Incorporated,113.80,28272.26,1991,Health Care,Major Pharmaceuticals
+ISRG,nasdaq,"Intuitive Surgical, Inc.",764.79,28087.29,2000,Health Care,Industrial Specialties
+ALXN,nasdaq,"Alexion Pharmaceuticals, Inc.",118.35,26646.40,1996,Health Care,Major Pharmaceuticals
+ILMN,nasdaq,"Illumina, Inc.",173.68,25409.38,2000,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+ROST,nasdaq,"Ross Stores, Inc.",63.20,24774.37,1985,Consumer Services,Clothing/Shoe/Accessory Stores
+FISV,nasdaq,"Fiserv, Inc.",115.19,24715.62,1986,Technology,EDP Services
+ORLY,nasdaq,"O&#39;Reilly Automotive, Inc.",251.99,23093.90,1993,Consumer Services,Other Specialty Stores
+PAYX,nasdaq,"Paychex, Inc.",57.89,20796.89,1983,Consumer Services,Diversified Commercial Services
+LRCX,nasdaq,Lam Research Corporation,125.17,20383.17,1984,Technology,Industrial Machinery/Components
+CTRP,nasdaq,"Ctrip.com International, Ltd.",48.29,20258.00,2003,Miscellaneous,Business Services
+AMTD,nasdaq,TD Ameritrade Holding Corporation,36.84,19434.67,1997,Finance,Investment Bankers/Brokers/Service
+CERN,nasdaq,Cerner Corporation,58.61,19324.86,1986,Technology,EDP Services
+SYMC,nasdaq,Symantec Corporation,30.04,18589.79,1989,Technology,Computer Software: Prepackaged Software
+CHKP,nasdaq,Check Point Software Technologies Ltd.,103.53,18107.55,1996,Technology,Computer Software: Prepackaged Software
+DLTR,nasdaq,"Dollar Tree, Inc.",76.46,18067.34,1995,Consumer Services,Department/Specialty Retail Stores
+ULTA,nasdaq,"Ulta Beauty, Inc.",282.68,17563.55,2007,Consumer Services,Other Specialty Stores
+TROW,nasdaq,"T. Rowe Price Group, Inc.",70.26,16986.91,1986,Finance,Investment Bankers/Brokers/Service
+MCHP,nasdaq,Microchip Technology Incorporated,72.24,15635.06,1993,Technology,Semiconductors
+BMRN,nasdaq,BioMarin Pharmaceutical Inc.,89.91,15542.43,1999,Health Care,Major Pharmaceuticals
+SBAC,nasdaq,SBA Communications Corporation,123.80,15010.05,1999,Consumer Services,Real Estate Investment Trusts
+KLAC,nasdaq,KLA-Tencor Corporation,95.33,14941.01,1980,Capital Goods,Electronic Components
+STX,nasdaq,Seagate Technology PLC,48.17,14218.67,2002,Technology,Electronic Components
+XRAY,nasdaq,DENTSPLY SIRONA Inc.,61.80,14194.27,1987,Health Care,Medical/Dental Instruments
+XLNX,nasdaq,"Xilinx, Inc.",55.68,13860.69,1990,Technology,Semiconductors
+CPRT,nasdaq,"Copart, Inc.",29.65,13620.92,1994,Consumer Durables,Automotive Aftermarket
+IDXX,nasdaq,"IDEXX Laboratories, Inc.",153.60,13504.94,1991,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic S...
+HSIC,nasdaq,"Henry Schein, Inc.",167.85,13381.66,1995,Health Care,Medical Specialities
+FAST,nasdaq,Fastenal Company,45.54,13172.94,1987,Consumer Services,RETAIL: Building Materials
+VRSK,nasdaq,"Verisk Analytics, Inc.",79.11,13162.00,2009,Technology,EDP Services
+CTXS,nasdaq,"Citrix Systems, Inc.",82.96,12971.00,1995,Technology,Computer Software: Prepackaged Software
+CTAS,nasdaq,Cintas Corporation,121.68,12815.65,1983,Consumer Non-Durables,Apparel
+MXIM,nasdaq,"Maxim Integrated Products, Inc.",43.77,12373.40,1988,Technology,Semiconductors
+HOLX,nasdaq,"Hologic, Inc.",42.42,11847.75,1990,Health Care,Medical Electronics
+WYNN,nasdaq,"Wynn Resorts, Limited",113.47,11600.55,2002,Consumer Services,Hotels/Resorts
+NTAP,nasdaq,"NetApp, Inc.",39.49,10699.87,1995,Technology,Electronic Components
+SNPS,nasdaq,"Synopsys, Inc.",70.93,10656.45,1992,Technology,Computer Software: Prepackaged Software
+CHRW,nasdaq,"C.H. Robinson Worldwide, Inc.",74.46,10557.01,1997,Transportation,Oil Refining/Marketing
+AKAM,nasdaq,"Akamai Technologies, Inc.",58.80,10208.22,1999,Miscellaneous,Business Services
+MELI,nasdaq,"MercadoLibre, Inc.",215.46,9514.15,2007,Miscellaneous,Business Services
+SGEN,nasdaq,"Seattle Genetics, Inc.",66.01,9414.81,2001,Health Care,Biotechnology: Biological Products (No Diagnos...
+GRMN,nasdaq,Garmin Ltd.,48.69,9175.46,2000,Capital Goods,Industrial Machinery/Components
+JAZZ,nasdaq,Jazz Pharmaceuticals plc,153.11,9147.13,2007,Health Care,Major Pharmaceuticals
+ALGN,nasdaq,"Align Technology, Inc.",113.73,9135.19,2001,Health Care,Industrial Specialties
+ANSS,nasdaq,"ANSYS, Inc.",105.37,9015.70,1996,Technology,Computer Software: Prepackaged Software
+VRSN,nasdaq,"VeriSign, Inc.",87.68,8972.17,1998,Technology,EDP Services
+RYAAY,nasdaq,Ryanair Holdings plc,86.02,8806.57,1997,Transportation,Air Freight/Delivery Services
+OTEX,nasdaq,Open Text Corporation,33.31,8775.21,1996,Technology,EDP Services
+ASML,nasdaq,ASML Holding N.V.,128.38,8739.32,1995,Technology,Industrial Machinery/Components
+ALKS,nasdaq,Alkermes plc,57.16,8719.61,1991,Health Care,Major Pharmaceuticals
+FFIV,nasdaq,"F5 Networks, Inc.",134.43,8709.40,1999,Technology,Computer Communications Equipment
+FLEX,nasdaq,Flex Ltd.,15.93,8526.07,1994,Technology,Electrical Products
+TSCO,nasdaq,Tractor Supply Company,63.54,8254.53,1994,Consumer Services,RETAIL: Building Materials
+SEIC,nasdaq,SEI Investments Company,51.33,8168.25,1981,Finance,Investment Bankers/Brokers/Service
+STLD,nasdaq,"Steel Dynamics, Inc.",32.91,7976.84,1996,Basic Industries,Steel/Iron Ore
+TRMB,nasdaq,Trimble Inc.,30.46,7698.85,1990,Capital Goods,Industrial Machinery/Components
+SBNY,nasdaq,Signature Bank,136.52,7455.38,2004,Finance,Major Banks
+WOOF,nasdaq,VCA Inc.,91.43,7427.41,2001,Consumer Non-Durables,Farming/Seeds/Milling
+MRVL,nasdaq,Marvell Technology Group Ltd.,14.68,7375.23,2000,Technology,Semiconductors
+JKHY,nasdaq,"Jack Henry & Associates, Inc.",93.03,7221.89,1985,Technology,EDP Services
+LAMR,nasdaq,Lamar Advertising Company,72.11,7025.99,1996,Consumer Services,Real Estate Investment Trusts
+LULU,nasdaq,lululemon athletica inc.,51.22,7019.89,2007,Consumer Non-Durables,Apparel
+SRCL,nasdaq,"Stericycle, Inc.",81.92,6983.45,1996,Basic Industries,Environmental Services
+CGNX,nasdaq,Cognex Corporation,79.83,6917.22,1989,Capital Goods,Industrial Machinery/Components
+JBLU,nasdaq,JetBlue Airways Corporation,20.73,6914.85,2002,Transportation,Air Freight/Delivery Services
+AGNC,nasdaq,AGNC Investment Corp.,20.27,6710.30,2008,Consumer Services,Real Estate Investment Trusts
+MKTX,nasdaq,"MarketAxess Holdings, Inc.",178.07,6693.00,2004,Finance,Investment Bankers/Brokers/Service
+CSGP,nasdaq,"CoStar Group, Inc.",204.52,6667.29,1998,Miscellaneous,Business Services
+ODFL,nasdaq,"Old Dominion Freight Line, Inc.",80.60,6646.78,1991,Transportation,Trucking Freight/Courier Services
+FTNT,nasdaq,"Fortinet, Inc.",37.32,6542.94,2009,Technology,Computer peripheral equipment
+DXCM,nasdaq,"DexCom, Inc.",76.06,6451.03,2005,Health Care,Medical/Dental Instruments
+IPGP,nasdaq,IPG Photonics Corporation,117.17,6259.51,2006,Technology,Semiconductors
+ULTI,nasdaq,"The Ultimate Software Group, Inc.",201.20,6220.42,1998,Technology,Computer Software: Prepackaged Software
+SPLS,nasdaq,"Staples, Inc.",9.52,6212.08,1989,Consumer Services,Other Specialty Stores
+EXEL,nasdaq,"Exelixis, Inc.",21.29,6192.55,2000,Health Care,Biotechnology: Commercial Physical & Biologica...
+TTWO,nasdaq,"Take-Two Interactive Software, Inc.",57.53,5834.13,1997,Technology,Computer Software: Prepackaged Software
+OZRK,nasdaq,Bank of the Ozarks,46.81,5690.74,1997,Finance,Major Banks
+BBBY,nasdaq,Bed Bath & Beyond Inc.,38.39,5615.46,1992,Consumer Services,Home Furnishings
+UTHR,nasdaq,United Therapeutics Corporation,121.53,5464.19,1999,Health Care,Major Pharmaceuticals
+BRCD,nasdaq,"Brocade Communications Systems, Inc.",12.41,5059.58,1999,Technology,Computer Communications Equipment
+LOGI,nasdaq,Logitech International S.A.,31.01,5015.00,1997,Technology,Computer peripheral equipment
+POOL,nasdaq,Pool Corporation,116.43,4807.11,1995,Consumer Durables,Industrial Specialties
+FLIR,nasdaq,"FLIR Systems, Inc.",34.97,4768.87,1993,Capital Goods,Industrial Machinery/Components
+PVTB,nasdaq,"PrivateBancorp, Inc.",58.65,4693.56,1999,Finance,Major Banks
+MASI,nasdaq,Masimo Corporation,92.56,4666.79,2007,Health Care,Biotechnology: Electromedical & Electrotherape...
+NBIX,nasdaq,"Neurocrine Biosciences, Inc.",53.39,4651.03,1996,Health Care,Biotechnology: Biological Products (No Diagnos...
+ZBRA,nasdaq,Zebra Technologies Corporation,87.33,4617.77,1991,Technology,Industrial Machinery/Components
+CAVM,nasdaq,"Cavium, Inc.",67.26,4562.31,2007,Technology,Semiconductors
+AZPN,nasdaq,"Aspen Technology, Inc.",58.50,4450.22,1994,Technology,EDP Services
+EEFT,nasdaq,"Euronet Worldwide, Inc.",84.58,4428.58,1997,Finance,Investment Bankers/Brokers/Service
+CASY,nasdaq,"Caseys General Stores, Inc.",112.01,4390.59,1983,Consumer Durables,Automotive Aftermarket
+ATHN,nasdaq,"athenahealth, Inc.",110.17,4353.76,2007,Miscellaneous,Business Services
+CY,nasdaq,Cypress Semiconductor Corporation,13.14,4308.89,1986,Technology,Semiconductors
+ALNY,nasdaq,"Alnylam Pharmaceuticals, Inc.",49.85,4289.72,2004,Health Care,Major Pharmaceuticals
+ICLR,nasdaq,ICON plc,77.58,4230.50,1998,Health Care,Biotechnology: Commercial Physical & Biologica...
+PDCO,nasdaq,"Patterson Companies, Inc.",43.55,4230.19,1992,Health Care,Medical Specialities
+NATI,nasdaq,National Instruments Corporation,31.79,4119.79,1995,Technology,Computer Software: Prepackaged Software
+ACAD,nasdaq,ACADIA Pharmaceuticals Inc.,33.48,4064.73,1985,Health Care,Major Pharmaceuticals
+COLM,nasdaq,Columbia Sportswear Company,58.06,4034.30,1998,Consumer Non-Durables,Apparel
+SBGI,nasdaq,"Sinclair Broadcast Group, Inc.",38.85,3981.62,1995,Consumer Services,Broadcasting
+CRUS,nasdaq,"Cirrus Logic, Inc.",61.64,3959.26,1989,Technology,Semiconductors
+PTEN,nasdaq,"Patterson-UTI Energy, Inc.",23.80,3958.65,1993,Energy,Oil & Gas Production
+JCOM,nasdaq,"j2 Global, Inc.",81.55,3929.87,1999,Technology,Telecommunications Equipment
+MDCO,nasdaq,The Medicines Company,54.07,3859.54,2000,Health Care,Major Pharmaceuticals
+TCBI,nasdaq,"Texas Capital Bancshares, Inc.",77.85,3858.06,2003,Finance,Major Banks
+CACC,nasdaq,Credit Acceptance Corporation,192.56,3827.68,1992,Finance,Finance: Consumer Services
+CBRL,nasdaq,"Cracker Barrel Old Country Store, Inc.",155.88,3747.76,1981,Consumer Services,Restaurants
+MPWR,nasdaq,"Monolithic Power Systems, Inc.",88.97,3663.07,2004,Technology,Semiconductors
+BLKB,nasdaq,"Blackbaud, Inc.",77.00,3659.97,2004,Technology,Computer Software: Prepackaged Software
+NUVA,nasdaq,"NuVasive, Inc.",71.70,3632.34,2004,Health Care,Medical/Dental Instruments
+HOMB,nasdaq,"Home BancShares, Inc.",24.92,3574.57,2006,Finance,Major Banks
+VSAT,nasdaq,"ViaSat, Inc.",61.91,3565.34,1996,Technology,Radio And Television Broadcasting And Communic...
+MKSI,nasdaq,"MKS Instruments, Inc.",64.85,3492.92,1999,Capital Goods,Industrial Machinery/Components
+MDSO,nasdaq,"Medidata Solutions, Inc.",60.30,3479.62,2009,Technology,Computer Software: Prepackaged Software
+LSTR,nasdaq,"Landstar System, Inc.",83.05,3474.80,1993,Transportation,Trucking Freight/Courier Services
+MANH,nasdaq,"Manhattan Associates, Inc.",49.22,3418.00,1998,Technology,Computer Software: Prepackaged Software
+TECD,nasdaq,Tech Data Corporation,88.32,3357.30,1986,Technology,Retail: Computer Software & Peripheral Equipment
+PEGA,nasdaq,Pegasystems Inc.,43.60,3341.64,1996,Technology,EDP Services
+NTCT,nasdaq,"NetScout Systems, Inc.",36.15,3318.10,1999,Technology,EDP Services
+LOPE,nasdaq,"Grand Canyon Education, Inc.",69.33,3310.01,2008,Consumer Services,Other Consumer Services
+MORN,nasdaq,"Morningstar, Inc.",76.40,3279.90,2005,Finance,Investment Managers
+HCSG,nasdaq,"Healthcare Services Group, Inc.",44.90,3269.26,1983,Health Care,Hospital/Nursing Management
+ENTG,nasdaq,"Entegris, Inc.",22.55,3184.52,2000,Consumer Non-Durables,Plastic Products
+SLGN,nasdaq,Silgan Holdings Inc.,57.60,3170.95,1997,Consumer Durables,Containers/Packaging
+TXRH,nasdaq,"Texas Roadhouse, Inc.",44.24,3136.93,2004,Consumer Services,Restaurants
+PRXL,nasdaq,PAREXEL International Corporation,61.10,3113.33,1995,Health Care,Biotechnology: Commercial Physical & Biologica...
+NXST,nasdaq,"Nexstar Media Group, Inc.",66.00,3109.07,2003,Consumer Services,Broadcasting
+IDTI,nasdaq,"Integrated Device Technology, Inc.",23.24,3100.67,1984,Technology,Semiconductors
+CAKE,nasdaq,The Cheesecake Factory Incorporated,61.67,2943.24,1992,Consumer Services,Restaurants
+SLAB,nasdaq,"Silicon Laboratories, Inc.",69.10,2922.10,2000,Technology,Semiconductors
+BECN,nasdaq,"Beacon Roofing Supply, Inc.",48.60,2919.73,2004,Consumer Services,RETAIL: Building Materials
+ICUI,nasdaq,"ICU Medical, Inc.",147.00,2910.19,1992,Health Care,Medical/Dental Instruments
+PZZA,nasdaq,"Papa John&#39;s International, Inc.",78.61,2895.77,1993,Consumer Services,Restaurants
+FSLR,nasdaq,"First Solar, Inc.",27.42,2859.20,2006,Technology,Semiconductors
+SANM,nasdaq,Sanmina Corporation,38.40,2852.87,1993,Technology,Electrical Products
+FNSR,nasdaq,Finisar Corporation,24.10,2684.44,1999,Technology,Semiconductors
+BWLD,nasdaq,"Buffalo Wild Wings, Inc.",150.75,2621.49,2003,Consumer Services,Restaurants
+URBN,nasdaq,"Urban Outfitters, Inc.",22.42,2607.23,1993,Consumer Services,Clothing/Shoe/Accessory Stores
+AMKR,nasdaq,"Amkor Technology, Inc.",10.90,2605.26,1998,Technology,Semiconductors
+EXAS,nasdaq,Exact Sciences Corporation,23.27,2573.75,2001,Health Care,Biotechnology: Commercial Physical & Biologica...
+AEIS,nasdaq,"Advanced Energy Industries, Inc.",64.45,2562.39,1995,Capital Goods,Industrial Machinery/Components
+ALGT,nasdaq,Allegiant Travel Company,152.05,2529.32,2006,Transportation,Air Freight/Delivery Services
+JJSF,nasdaq,J & J Snack Foods Corp.,132.67,2482.16,1986,Consumer Non-Durables,Specialty Foods
+MLNX,nasdaq,"Mellanox Technologies, Ltd.",49.95,2481.47,2007,Technology,Semiconductors
+SAFM,nasdaq,"Sanderson Farms, Inc.",107.49,2444.37,1987,Consumer Non-Durables,Meat/Poultry/Fish
+VRNT,nasdaq,Verint Systems Inc.,38.80,2421.85,2002,Technology,EDP Services
+PODD,nasdaq,Insulet Corporation,41.37,2394.46,2007,Health Care,Medical/Dental Instruments
+CREE,nasdaq,"Cree, Inc.",24.10,2347.46,1993,Technology,Semiconductors
+TTEK,nasdaq,"Tetra Tech, Inc.",40.30,2309.88,1991,Consumer Services,Military/Government/Technical
+FCFS,nasdaq,"First Cash, Inc.",47.70,2303.42,1991,Consumer Services,Other Specialty Stores
+EFII,nasdaq,"Electronics for Imaging, Inc.",49.44,2295.59,1992,Technology,Computer Communications Equipment
+ITRI,nasdaq,"Itron, Inc.",59.15,2286.03,1993,Capital Goods,Electrical Products
+NEOG,nasdaq,Neogen Corporation,59.66,2274.21,1989,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic S...
+CVLT,nasdaq,"Commvault Systems, Inc.",49.75,2242.71,2006,Technology,Computer Software: Prepackaged Software
+ROLL,nasdaq,RBC Bearings Incorporated,91.68,2199.53,2005,Capital Goods,Metal Fabrications
+SHOO,nasdaq,"Steven Madden, Ltd.",36.55,2184.03,1993,Consumer Non-Durables,Shoe Manufacturing
+COLB,nasdaq,"Columbia Banking System, Inc.",37.02,2159.45,1992,Finance,Major Banks
+UNFI,nasdaq,"United Natural Foods, Inc.",41.63,2106.17,1996,Consumer Non-Durables,Food Distributors
+MATW,nasdaq,Matthews International Corporation,64.75,2088.32,1994,Capital Goods,Metal Fabrications
+MSTR,nasdaq,MicroStrategy Incorporated,181.61,2076.76,1998,Technology,Computer Software: Prepackaged Software
+IIVI,nasdaq,II-VI Incorporated,31.50,1970.69,1987,Capital Goods,Electronic Components
+CATM,nasdaq,Cardtronics plc,43.08,1964.80,2007,Miscellaneous,Business Services
+TSEM,nasdaq,Tower Semiconductor Ltd.,20.80,1934.08,1994,Technology,Semiconductors
+UFPI,nasdaq,"Universal Forest Products, Inc.",94.99,1933.22,1993,Basic Industries,Forest Products
+PLCE,nasdaq,"Children&#39;s Place, Inc. (The)",109.95,1928.36,1997,Consumer Services,Clothing/Shoe/Accessory Stores
+WBMD,nasdaq,WebMD Health Corp,51.07,1927.00,2005,Miscellaneous,Business Services
+COKE,nasdaq,Coca-Cola Bottling Co. Consolidated,202.18,1887.18,1972,Consumer Non-Durables,Beverages (Production/Distribution)
+ABCO,nasdaq,The Advisory Board Company,46.85,1885.05,2001,Consumer Services,Other Consumer Services
+CALM,nasdaq,"Cal-Maine Foods, Inc.",38.58,1873.84,1996,Consumer Non-Durables,Farming/Seeds/Milling
+CENT,nasdaq,Central Garden & Pet Company,36.47,1871.98,1993,Consumer Durables,Consumer Specialties
+POWI,nasdaq,"Power Integrations, Inc.",62.70,1853.20,1997,Technology,Semiconductors
+MRCY,nasdaq,Mercury Systems Inc,38.22,1832.40,1998,Capital Goods,Electrical Products
+CRZO,nasdaq,"Carrizo Oil & Gas, Inc.",28.00,1823.95,1997,Energy,Oil & Gas Production
+PLUS,nasdaq,ePlus inc.,64.25,1819.68,1996,Technology,Retail: Computer Software & Peripheral Equipment
+STMP,nasdaq,Stamps.com Inc.,105.65,1779.97,1999,Miscellaneous,Business Services
+IRBT,nasdaq,iRobot Corporation,65.13,1774.55,2005,Consumer Durables,Consumer Electronics/Appliances
+SYNA,nasdaq,Synaptics Incorporated,50.01,1768.25,2002,Technology,EDP Services
+CCMP,nasdaq,Cabot Microelectronics Corporation,70.44,1763.05,2000,Technology,Semiconductors
+WERN,nasdaq,"Werner Enterprises, Inc.",24.35,1758.55,1986,Transportation,Trucking Freight/Courier Services
+SKYW,nasdaq,"SkyWest, Inc.",33.05,1712.60,1986,Transportation,Air Freight/Delivery Services
+MNRO,nasdaq,"Monro Muffler Brake, Inc.",52.45,1708.10,1991,Consumer Services,Automotive Aftermarket
+NXTM,nasdaq,"NxStage Medical, Inc.",26.00,1695.63,2005,Health Care,Biotechnology: Electromedical & Electrotherape...
+AHGP,nasdaq,"Alliance Holdings GP, L.P.",28.09,1681.55,2006,Energy,Coal Mining
+ISCA,nasdaq,International Speedway Corporation,37.35,1680.69,1996,Consumer Services,Services-Misc. Amusement & Recreation
+PENN,nasdaq,"Penn National Gaming, Inc.",18.32,1665.01,1994,Consumer Services,Hotels/Resorts
+BLDR,nasdaq,"Builders FirstSource, Inc.",14.78,1656.02,2005,Consumer Services,RETAIL: Building Materials
+NWBI,nasdaq,"Northwest Bancshares, Inc.",16.25,1655.82,2009,Finance,Major Banks
+HMSY,nasdaq,HMS Holdings Corp,19.57,1635.55,1992,Miscellaneous,Business Services
+XXIA,nasdaq,Ixia,19.65,1634.91,2000,Capital Goods,Electrical Products
+SFLY,nasdaq,"Shutterfly, Inc.",48.51,1632.39,2006,Miscellaneous,Other Consumer Services
+SIMO,nasdaq,Silicon Motion Technology Corporation,46.14,1626.30,2005,Technology,Semiconductors
+NTGR,nasdaq,"NETGEAR, Inc.",49.35,1625.18,2003,Public Utilities,Telecommunications Equipment
+ARLP,nasdaq,"Alliance Resource Partners, L.P.",21.75,1622.49,1999,Energy,Coal Mining
+ABCB,nasdaq,Ameris Bancorp,43.20,1604.07,1994,Finance,Major Banks
+HTLD,nasdaq,"Heartland Express, Inc.",19.00,1583.40,1986,Transportation,Trucking Freight/Courier Services
+TTMI,nasdaq,"TTM Technologies, Inc.",15.56,1583.02,2000,Technology,Electrical Products
+GOV,nasdaq,Government Properties Income Trust,22.21,1580.86,2009,Finance,Real Estate
+BOFI,nasdaq,"BofI Holding, Inc.",24.71,1565.68,2005,Finance,Savings Institutions
+EXLS,nasdaq,"ExlService Holdings, Inc.",45.70,1544.48,2006,Miscellaneous,Business Services
+NAVG,nasdaq,"The Navigators Group, Inc.",51.30,1495.68,1986,Finance,Property-Casualty Insurers
+BRKS,nasdaq,"Brooks Automation, Inc.",21.29,1480.10,1995,Technology,Industrial Machinery/Components
+PRAA,nasdaq,"PRA Group, Inc.",31.55,1464.21,2002,Finance,Finance: Consumer Services
+OMCL,nasdaq,"Omnicell, Inc.",39.55,1461.52,2001,Technology,Computer Manufacturing
+SCHL,nasdaq,Scholastic Corporation,41.89,1458.87,1992,Consumer Services,Books
+SYNT,nasdaq,"Syntel, Inc.",17.37,1452.74,1997,Technology,EDP Services
+NSIT,nasdaq,"Insight Enterprises, Inc.",40.60,1451.45,1995,Consumer Services,Catalog/Specialty Distribution
+WDFC,nasdaq,WD-40 Company,102.80,1445.70,1973,Basic Industries,Major Chemicals
+ARRY,nasdaq,Array BioPharma Inc.,8.46,1429.80,2000,Health Care,Major Pharmaceuticals
+PRGS,nasdaq,Progress Software Corporation,29.09,1398.66,1991,Technology,Computer Software: Prepackaged Software
+AMWD,nasdaq,American Woodmark Corporation,86.05,1396.82,1986,Basic Industries,Forest Products
+INFN,nasdaq,Infinera Corporation,9.45,1383.63,2007,Public Utilities,Telecommunications Equipment
+ASTE,nasdaq,"Astec Industries, Inc.",60.02,1383.22,1986,Capital Goods,Construction/Ag Equipment/Trucks
+RMBS,nasdaq,"Rambus, Inc.",12.35,1378.50,1997,Technology,Semiconductors
+BANF,nasdaq,BancFirst Corporation,86.50,1372.12,1993,Finance,Major Banks
+EGOV,nasdaq,NIC Inc.,20.35,1358.86,1999,Miscellaneous,Business Services
+MANT,nasdaq,ManTech International Corporation,34.39,1334.03,2002,Consumer Services,Other Consumer Services
+HUBG,nasdaq,"Hub Group, Inc.",38.95,1329.87,1996,Transportation,Oil Refining/Marketing
+TTEC,nasdaq,"TeleTech Holdings, Inc.",28.95,1328.60,1996,Technology,Professional Services
+OSIS,nasdaq,"OSI Systems, Inc.",71.03,1327.70,1997,Technology,Semiconductors
+BABY,nasdaq,Natus Medical Incorporated,38.75,1273.58,2001,Health Care,Biotechnology: Electromedical & Electrotherape...
+CALD,nasdaq,"Callidus Software, Inc.",19.75,1258.68,2003,Technology,EDP Services
+CNMD,nasdaq,CONMED Corporation,45.21,1258.49,1987,Health Care,Biotechnology: Electromedical & Electrotherape...
+MINI,nasdaq,"Mobile Mini, Inc.",28.30,1257.64,1994,Capital Goods,Metal Fabrications
+MYGN,nasdaq,"Myriad Genetics, Inc.",18.15,1235.86,1995,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic S...
+SPNC,nasdaq,The Spectranetics Corporation,28.40,1234.69,1992,Health Care,Biotechnology: Electromedical & Electrotherape...
+AMSF,nasdaq,"AMERISAFE, Inc.",63.70,1224.96,2005,Finance,Property-Casualty Insurers
+CSGS,nasdaq,"CSG Systems International, Inc.",36.08,1220.84,1996,Technology,EDP Services
+SYKE,nasdaq,"Sykes Enterprises, Incorporated",28.44,1219.92,1996,Technology,EDP Services
+CNSL,nasdaq,"Consolidated Communications Holdings, Inc.",23.86,1207.46,2005,Public Utilities,Telecommunications Equipment
+LABL,nasdaq,Multi-Color Corporation,70.95,1202.35,1987,Miscellaneous,Publishing
+CORT,nasdaq,Corcept Therapeutics Incorporated,10.62,1199.45,2004,Health Care,Major Pharmaceuticals
+RGEN,nasdaq,Repligen Corporation,35.35,1196.44,1986,Health Care,Biotechnology: Biological Products (No Diagnos...
+GIII,nasdaq,"G-III Apparel Group, LTD.",24.33,1183.42,1989,Consumer Non-Durables,Apparel
+SMCI,nasdaq,"Super Micro Computer, Inc.",24.45,1180.83,2007,Technology,Computer Manufacturing
+ROCK,nasdaq,"Gibraltar Industries, Inc.",37.30,1177.96,1993,Capital Goods,Steel/Iron Ore
+STFC,nasdaq,State Auto Financial Corporation,26.65,1118.93,1991,Finance,Property-Casualty Insurers
+VECO,nasdaq,Veeco Instruments Inc.,27.40,1111.61,1994,Technology,Industrial Machinery/Components
+SSYS,nasdaq,"Stratasys, Ltd.",21.00,1106.61,1994,Technology,Computer peripheral equipment
+SNCR,nasdaq,"Synchronoss Technologies, Inc.",23.59,1093.93,2006,Technology,EDP Services
+JOBS,nasdaq,"51job, Inc.",40.52,1085.67,2004,Technology,Diversified Commercial Services
+AIMC,nasdaq,Altra Industrial Motion Corp.,36.75,1077.12,2006,Capital Goods,Industrial Machinery/Components
+ABAX,nasdaq,"ABAXIS, Inc.",46.51,1048.34,1992,Capital Goods,Industrial Machinery/Components
+GHDX,nasdaq,"Genomic Health, Inc.",30.66,1044.48,2005,Health Care,Medical Specialities
+SAFT,nasdaq,"Safety Insurance Group, Inc.",68.55,1038.57,2002,Finance,Property-Casualty Insurers
+SONC,nasdaq,Sonic Corp.,24.35,1033.21,1991,Consumer Services,Restaurants
+IPCC,nasdaq,Infinity Property and Casualty Corporation,93.25,1029.36,2003,Finance,Property-Casualty Insurers
+SCSS,nasdaq,Select Comfort Corporation,24.57,1027.14,1998,Consumer Durables,Home Furnishings
+GTLS,nasdaq,"Chart Industries, Inc.",33.44,1026.20,2006,Capital Goods,Metal Fabrications
+FOLD,nasdaq,"Amicus Therapeutics, Inc.",7.13,1017.74,2007,Health Care,Major Pharmaceuticals
+CENX,nasdaq,Century Aluminum Company,11.64,1015.67,1996,Basic Industries,Aluminum
+CPLA,nasdaq,Capella Education Company,84.85,981.50,2006,Consumer Services,Other Consumer Services
+UEIC,nasdaq,Universal Electronics Inc.,67.00,964.13,1993,Consumer Non-Durables,Consumer Electronics/Appliances
+MNTA,nasdaq,"Momenta Pharmaceuticals, Inc.",13.25,952.05,2004,Health Care,Biotechnology: Biological Products (No Diagnos...
+LHCG,nasdaq,LHC Group,52.35,950.33,2005,Health Care,Medical/Nursing Services
+ENSG,nasdaq,"The Ensign Group, Inc.",18.55,944.17,2007,Health Care,Hospital/Nursing Management
+CSII,nasdaq,"Cardiovascular Systems, Inc.",28.80,938.96,1981,Health Care,Medical/Dental Instruments
+SNHY,nasdaq,Sun Hydraulics Corporation,34.52,929.98,1997,Capital Goods,Metal Fabrications
+HURN,nasdaq,Huron Consulting Group Inc.,41.95,926.62,2004,Consumer Services,Professional Services
+ADTN,nasdaq,"ADTRAN, Inc.",19.10,922.63,1994,Public Utilities,Telecommunications Equipment
+TRS,nasdaq,TriMas Corporation,19.90,909.67,2007,Capital Goods,Industrial Specialties
+HIMX,nasdaq,"Himax Technologies, Inc.",8.40,906.88,2006,Technology,Semiconductors
+CFNL,nasdaq,Cardinal Financial Corporation,27.39,906.17,1998,Finance,Major Banks
+SPWR,nasdaq,SunPower Corporation,6.52,904.32,2005,Technology,Semiconductors
+ALOG,nasdaq,Analogic Corporation,71.20,889.23,1972,Capital Goods,Electrical Products
+WIRE,nasdaq,Encore Wire Corporation,42.65,884.80,1992,Capital Goods,Metal Fabrications
+IMKTA,nasdaq,"Ingles Markets, Incorporated",43.55,882.31,1987,Consumer Services,Food Chains
+EPAY,nasdaq,"Bottomline Technologies, Inc.",21.74,881.76,1999,Technology,Computer Software: Prepackaged Software
+IPHS,nasdaq,"Innophos Holdings, Inc.",45.22,880.97,2006,Consumer Durables,Specialty Chemicals
+SHLM,nasdaq,"A. Schulman, Inc.",29.75,877.24,1972,Basic Industries,Major Chemicals
+QSII,nasdaq,"Quality Systems, Inc.",13.78,860.38,1982,Technology,EDP Services
+BEAT,nasdaq,"BioTelemetry, Inc.",30.45,855.24,2008,Health Care,Medical Specialities
+STRA,nasdaq,"Strayer Education, Inc.",75.97,847.82,1996,Consumer Services,Other Consumer Services
+VRTU,nasdaq,Virtusa Corporation,27.46,822.63,2007,Technology,EDP Services
+CRESY,nasdaq,Cresud S.A.C.I.F. y A.,20.90,817.15,1997,Finance,Real Estate
+TYPE,nasdaq,Monotype Imaging Holdings Inc.,19.50,815.82,2007,Technology,EDP Services
+FOSL,nasdaq,"Fossil Group, Inc.",16.80,810.94,1993,Consumer Non-Durables,Consumer Specialties
+JBSS,nasdaq,"John B. Sanfilippo & Son, Inc.",71.41,804.47,1991,Consumer Non-Durables,Specialty Foods
+GLRE,nasdaq,"Greenlight Reinsurance, Ltd.",21.25,794.03,2007,Finance,Property-Casualty Insurers
+LMNX,nasdaq,Luminex Corporation,18.05,793.08,2000,Health Care,Medical/Dental Instruments
+ICFI,nasdaq,"ICF International, Inc.",41.60,791.13,2006,Consumer Services,Professional Services
+ARII,nasdaq,"American Railcar Industries, Inc.",41.22,786.64,2006,Capital Goods,Railroads
+MGRC,nasdaq,McGrath RentCorp,32.74,784.05,1984,Technology,Diversified Commercial Services
+UTEK,nasdaq,"Ultratech, Inc.",28.97,782.84,1993,Technology,Industrial Machinery/Components
+CASH,nasdaq,"Meta Financial Group, Inc.",83.65,781.77,1993,Finance,Savings Institutions
+ACOR,nasdaq,"Acorda Therapeutics, Inc.",16.80,779.65,2006,Health Care,Biotechnology: Biological Products (No Diagnos...
+FORM,nasdaq,"FormFactor, Inc.",10.70,766.89,2003,Technology,Semiconductors
+EXTR,nasdaq,"Extreme Networks, Inc.",7.05,762.60,1999,Technology,Computer Communications Equipment
+NCMI,nasdaq,"National CineMedia, Inc.",12.09,760.05,2007,Consumer Services,Advertising
+HSTM,nasdaq,"HealthStream, Inc.",23.83,757.25,2000,Technology,"Computer Software: Programming, Data Processing"
+RRGB,nasdaq,"Red Robin Gourmet Burgers, Inc.",58.85,757.07,2002,Consumer Services,Restaurants
+MMLP,nasdaq,Martin Midstream Partners L.P.,19.15,736.14,2002,Energy,Oil Refining/Marketing
+PLAB,nasdaq,"Photronics, Inc.",10.65,731.96,1987,Technology,Semiconductors
+MRTN,nasdaq,"Marten Transport, Ltd.",22.40,731.68,1986,Transportation,Trucking Freight/Courier Services
+CSIQ,nasdaq,Canadian Solar Inc.,12.72,730.61,2006,Technology,Semiconductors
+FORR,nasdaq,"Forrester Research, Inc.",39.70,724.36,1996,Consumer Services,Diversified Commercial Services
+HSKA,nasdaq,Heska Corporation,101.64,719.21,1997,Health Care,Biotechnology: Biological Products (No Diagnos...
+NANO,nasdaq,Nanometrics Incorporated,28.03,707.11,1984,Capital Goods,Industrial Machinery/Components
+PDFS,nasdaq,"PDF Solutions, Inc.",22.04,706.42,2001,Technology,EDP Services
+FBNC,nasdaq,First Bancorp,28.62,705.49,1987,Finance,Major Banks
+ITRN,nasdaq,Ituran Location and Control Ltd.,29.75,698.39,2005,Consumer Non-Durables,Electronic Components
+RBCAA,nasdaq,"Republic Bancorp, Inc.",33.13,690.89,1998,Finance,Major Banks
+NNBR,nasdaq,"NN, Inc.",25.05,686.07,1994,Capital Goods,Metal Fabrications
+ORBC,nasdaq,ORBCOMM Inc.,9.50,678.50,2006,Consumer Services,Telecommunications Equipment
+OMER,nasdaq,Omeros Corporation,15.42,675.74,2009,Health Care,Major Pharmaceuticals
+RDWR,nasdaq,Radware Ltd.,15.19,670.96,1999,Miscellaneous,Business Services
+COBZ,nasdaq,CoBiz Financial Inc.,16.10,669.36,1998,Finance,Major Banks
+GSBC,nasdaq,"Great Southern Bancorp, Inc.",47.50,665.31,1989,Finance,Major Banks
+AMRI,nasdaq,"Albany Molecular Research, Inc.",15.45,663.43,1999,Health Care,Biotechnology: Commercial Physical & Biologica...
+OFIX,nasdaq,Orthofix International N.V.,36.94,662.95,1992,Health Care,Medical/Dental Instruments
+FLWS,nasdaq,"1-800 FLOWERS.COM, Inc.",9.90,649.13,1999,Consumer Services,Other Specialty Stores
+AVAV,nasdaq,"AeroVironment, Inc.",27.41,642.91,2007,Capital Goods,Aerospace
+ATRC,nasdaq,"AtriCure, Inc.",19.20,640.10,2005,Health Care,Medical/Dental Instruments
+SPNS,nasdaq,Sapiens International Corporation N.V.,13.07,638.62,1992,Technology,Computer Software: Prepackaged Software
+RUTH,nasdaq,"Ruth&#39;s Hospitality Group, Inc.",20.00,636.03,2005,Consumer Services,Restaurants
+CECO,nasdaq,Career Education Corporation,9.05,622.27,1998,Consumer Services,Other Consumer Services
+VNDA,nasdaq,Vanda Pharmaceuticals Inc.,13.95,618.63,2006,Health Care,Major Pharmaceuticals
+HIBB,nasdaq,"Hibbett Sports, Inc.",28.20,601.83,1996,Consumer Services,Other Specialty Stores
+PRFT,nasdaq,"Perficient, Inc.",16.96,600.72,1999,Technology,EDP Services
+GOOD,nasdaq,Gladstone Commercial Corporation,22.88,593.63,2003,Consumer Services,Real Estate
+PGNX,nasdaq,Progenics Pharmaceuticals Inc.,8.45,593.11,1997,Health Care,Major Pharmaceuticals
+FINL,nasdaq,"The Finish Line, Inc.",14.48,587.31,1992,Consumer Services,Clothing/Shoe/Accessory Stores
+PRSC,nasdaq,The Providence Service Corporation,43.41,586.05,2003,Consumer Services,Transportation Services
+UEPS,nasdaq,"Net 1 UEPS Technologies, Inc.",11.08,582.03,2005,Finance,Investment Bankers/Brokers/Service
+CWST,nasdaq,"Casella Waste Systems, Inc.",13.91,580.42,1997,Public Utilities,Environmental Services
+EMCI,nasdaq,EMC Insurance Group Inc.,27.10,576.40,1982,Finance,Property-Casualty Insurers
+KFRC,nasdaq,"Kforce, Inc.",21.35,572.40,1995,Technology,Professional Services
+FRED,nasdaq,"Fred&#39;s, Inc.",15.03,569.78,1992,Consumer Services,Department/Specialty Retail Stores
+VIVO,nasdaq,Meridian Bioscience Inc.,13.40,565.51,1986,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic S...
+RCII,nasdaq,Rent-A-Center Inc.,10.56,560.65,1995,Technology,Diversified Commercial Services
+ANGO,nasdaq,"AngioDynamics, Inc.",15.19,558.82,2004,Health Care,Medical/Dental Instruments
+CAMP,nasdaq,CalAmp Corp.,15.72,556.68,1983,Technology,Radio And Television Broadcasting And Communic...
+CMCO,nasdaq,Columbus McKinnon Corporation,24.65,555.14,1996,Capital Goods,Construction/Ag Equipment/Trucks
+ECHO,nasdaq,"Echo Global Logistics, Inc.",19.00,552.45,2009,Transportation,Oil Refining/Marketing
+INWK,nasdaq,"InnerWorkings, Inc.",9.92,546.74,2006,Consumer Durables,Containers/Packaging
+ACLS,nasdaq,"Axcelis Technologies, Inc.",18.15,543.27,2000,Technology,Industrial Machinery/Components
+FARO,nasdaq,"FARO Technologies, Inc.",32.00,534.14,1997,Capital Goods,Industrial Machinery/Components
+MBWM,nasdaq,Mercantile Bank Corporation,31.88,523.73,1998,Finance,Major Banks
+CCRN,nasdaq,"Cross Country Healthcare, Inc.",14.09,510.72,2001,Technology,Professional Services
+LJPC,nasdaq,La Jolla Pharmaceutical Company,27.92,509.86,1994,Health Care,Biotechnology: Biological Products (No Diagnos...
+CYOU,nasdaq,Changyou.com Limited,27.35,509.59,2009,Technology,Computer Software: Prepackaged Software
+PGTI,nasdaq,"PGT Innovations, Inc.",10.30,507.98,2006,Capital Goods,Building Products
+MCRI,nasdaq,"Monarch Casino & Resort, Inc.",29.00,506.82,1993,Consumer Services,Hotels/Resorts
+UCTT,nasdaq,"Ultra Clean Holdings, Inc.",15.16,506.38,2004,Technology,Semiconductors
+CYTK,nasdaq,"Cytokinetics, Incorporated",11.60,501.60,2004,Health Care,Major Pharmaceuticals
+BCRX,nasdaq,"BioCryst Pharmaceuticals, Inc.",6.75,499.63,1994,Health Care,Biotechnology: Biological Products (No Diagnos...
+TAST,nasdaq,"Carrols Restaurant Group, Inc.",13.75,497.78,2006,Consumer Services,Restaurants
+ACHN,nasdaq,"Achillion Pharmaceuticals, Inc.",3.62,494.93,2006,Health Care,Major Pharmaceuticals
+SCLN,nasdaq,"SciClone Pharmaceuticals, Inc.",9.60,494.46,1992,Health Care,Major Pharmaceuticals
+NVMI,nasdaq,Nova Measuring Instruments Ltd.,17.87,491.26,2000,Capital Goods,Electronic Components
+SCHN,nasdaq,"Schnitzer Steel Industries, Inc.",18.05,488.10,1993,Consumer Durables,Industrial Specialties
+SCMP,nasdaq,"Sucampo Pharmaceuticals, Inc.",9.80,482.55,2007,Health Care,Major Pharmaceuticals
+HSII,nasdaq,"Heidrick & Struggles International, Inc.",25.35,473.31,1999,Technology,Diversified Commercial Services
+LMAT,nasdaq,"LeMaitre Vascular, Inc.",25.05,467.70,2006,Health Care,Medical/Dental Instruments
+OKSB,nasdaq,"Southwest Bancorp, Inc.",25.00,467.23,1993,Finance,Major Banks
+HAYN,nasdaq,"Haynes International, Inc.",37.00,462.88,2007,Capital Goods,Steel/Iron Ore
+EZPW,nasdaq,"EZCORP, Inc.",8.45,458.77,1991,Consumer Services,Other Specialty Stores
+FISI,nasdaq,"Financial Institutions, Inc.",31.50,457.69,1999,Finance,Major Banks
+OSTK,nasdaq,"Overstock.com, Inc.",17.80,455.52,2002,Consumer Services,Catalog/Specialty Distribution
+CETV,nasdaq,Central European Media Enterprises Ltd.,3.15,451.87,1994,Consumer Services,Broadcasting
+PLUG,nasdaq,"Plug Power, Inc.",2.24,449.70,1999,Energy,Industrial Machinery/Components
+WRLD,nasdaq,World Acceptance Corporation,51.11,448.91,1991,Finance,Finance: Consumer Services
+CROX,nasdaq,"Crocs, Inc.",6.09,448.78,2006,Consumer Non-Durables,Shoe Manufacturing
+NEWS,nasdaq,"NewStar Financial, Inc.",10.49,447.67,2006,Finance,Finance: Consumer Services
+HLIT,nasdaq,Harmonic Inc.,5.50,438.75,1995,Technology,Radio And Television Broadcasting And Communic...
+MTRX,nasdaq,Matrix Service Company,16.35,434.81,1990,Basic Industries,Engineering & Construction
+ERII,nasdaq,"Energy Recovery, Inc.",8.05,433.74,2008,Technology,Industrial Machinery/Components
+DGICB,nasdaq,"Donegal Group, Inc.",15.68,425.41,1986,Finance,Property-Casualty Insurers
+CERS,nasdaq,Cerus Corporation,4.11,425.28,1997,Health Care,Medical/Dental Instruments
+SCVL,nasdaq,"Shoe Carnival, Inc.",23.98,424.27,1993,Consumer Services,Clothing/Shoe/Accessory Stores
+SHOR,nasdaq,"ShoreTel, Inc.",6.20,422.81,2007,Public Utilities,Telecommunications Equipment
+ZUMZ,nasdaq,Zumiez Inc.,16.90,421.54,2005,Consumer Services,Clothing/Shoe/Accessory Stores
+CPLP,nasdaq,Capital Product Partners L.P.,3.39,413.90,2007,Transportation,Marine Transportation
+CONN,nasdaq,"Conn&#39;s, Inc.",13.00,402.45,2003,Consumer Services,Consumer Electronics/Video Chains
+LPSN,nasdaq,"LivePerson, Inc.",6.90,402.27,2000,Technology,Computer Software: Prepackaged Software
+RECN,nasdaq,"Resources Connection, Inc.",13.45,398.84,2000,Miscellaneous,Business Services
+BBSI,nasdaq,"Barrett Business Services, Inc.",54.68,396.49,1993,Technology,Professional Services
+DAKT,nasdaq,"Daktronics, Inc.",8.97,395.29,1994,Consumer Durables,Miscellaneous manufacturing industries
+ELOS,nasdaq,Syneron Medical Ltd.,11.05,386.95,2004,Health Care,Biotechnology: Electromedical & Electrotherape...
+RIGL,nasdaq,"Rigel Pharmaceuticals, Inc.",3.16,386.43,2000,Health Care,Major Pharmaceuticals
+ARAY,nasdaq,Accuray Incorporated,4.60,381.33,2007,Health Care,Medical/Dental Instruments
+LNDC,nasdaq,Landec Corporation,13.70,374.08,1996,Basic Industries,Major Chemicals
+GERN,nasdaq,Geron Corporation,2.34,372.43,1996,Health Care,Major Pharmaceuticals
+BBGI,nasdaq,"Beasley Broadcast Group, Inc.",12.90,371.90,2000,Consumer Services,Broadcasting
+CLNE,nasdaq,Clean Energy Fuels Corp.,2.48,370.99,2007,Public Utilities,Natural Gas Distribution
+ADUS,nasdaq,Addus HomeCare Corporation,31.60,364.33,2009,Health Care,Medical/Nursing Services
+CPSI,nasdaq,"Computer Programs and Systems, Inc.",26.85,363.37,2002,Technology,EDP Services
+EXAC,nasdaq,"Exactech, Inc.",24.95,356.80,1996,Health Care,Industrial Specialties
+CNBKA,nasdaq,"Century Bancorp, Inc.",63.30,352.45,1987,Finance,Major Banks
+ARNA,nasdaq,"Arena Pharmaceuticals, Inc.",1.43,351.02,2000,Health Care,Major Pharmaceuticals
+APEI,nasdaq,"American Public Education, Inc.",21.05,341.43,2007,Consumer Services,Other Consumer Services
+AGEN,nasdaq,Agenus Inc.,3.47,341.20,2000,Health Care,Biotechnology: Biological Products (No Diagnos...
+PDLI,nasdaq,"PDL BioPharma, Inc.",2.04,337.74,1992,Health Care,Biotechnology: Biological Products (No Diagnos...
+BGFV,nasdaq,Big 5 Sporting Goods Corporation,15.20,334.79,2002,Consumer Services,Other Specialty Stores
+MGIC,nasdaq,Magic Software Enterprises Ltd.,7.55,334.79,1991,Technology,Computer Software: Prepackaged Software
+HCCI,nasdaq,"Heritage-Crystal Clean, Inc.",14.40,331.37,2008,Basic Industries,Miscellaneous
+TITN,nasdaq,Titan Machinery Inc.,14.74,321.82,2007,Consumer Services,Other Specialty Stores
+CVTI,nasdaq,"Covenant Transportation Group, Inc.",17.29,319.91,1994,Transportation,Trucking Freight/Courier Services
+PERY,nasdaq,Perry Ellis International Inc.,20.13,312.90,1993,Consumer Non-Durables,Apparel
+RMTI,nasdaq,"Rockwell Medical, Inc.",6.07,312.77,1998,Health Care,Biotechnology: Electromedical & Electrotherape...
+DGII,nasdaq,Digi International Inc.,11.80,311.88,1989,Technology,Computer Communications Equipment
+MRLN,nasdaq,Marlin Business Services Corp.,24.75,311.56,2003,Finance,Major Banks
+ISRL,nasdaq,"Isramco, Inc.",114.10,310.09,1983,Energy,Oil & Gas Production
+CRAI,nasdaq,"CRA International,Inc.",36.29,310.03,1998,Miscellaneous,Other Consumer Services
+SRDX,nasdaq,"Surmodics, Inc.",23.35,309.77,1998,Health Care,Medical/Dental Instruments
+GLUU,nasdaq,Glu Mobile Inc.,2.25,303.11,2007,Technology,EDP Services
+TBNK,nasdaq,Territorial Bancorp Inc.,30.82,302.20,2009,Finance,Savings Institutions
+SGMO,nasdaq,"Sangamo Therapeutics, Inc.",4.25,301.22,2000,Health Care,Biotechnology: Biological Products (No Diagnos...
+LCUT,nasdaq,"Lifetime Brands, Inc.",20.20,294.23,1991,Capital Goods,Industrial Machinery/Components
+CUTR,nasdaq,"Cutera, Inc.",20.60,285.65,2004,Health Care,Biotechnology: Electromedical & Electrotherape...
+NUTR,nasdaq,Nutraceutical International Corporation,30.75,284.32,1998,Consumer Durables,Specialty Chemicals
+IMGN,nasdaq,"ImmunoGen, Inc.",3.24,283.03,1989,Health Care,Major Pharmaceuticals
+INAP,nasdaq,Internap Corporation,3.43,281.88,1999,Technology,"Computer Software: Programming, Data Processing"
+CLMT,nasdaq,"Calumet Specialty Products Partners, L.P.",3.65,279.93,2006,Energy,Integrated oil Companies
+IVAC,nasdaq,"Intevac, Inc.",12.70,271.66,1995,Technology,Industrial Machinery/Components
+JASO,nasdaq,"JA Solar Holdings, Co., Ltd.",6.73,271.13,2007,Technology,Semiconductors
+NATH,nasdaq,"Nathan&#39;s Famous, Inc.",63.50,265.21,1993,Consumer Services,Restaurants
+OMAB,nasdaq,Grupo Aeroportuario del Centro Norte S.A.B. de...,44.33,264.94,2006,Transportation,Aerospace
+LLNW,nasdaq,"Limelight Networks, Inc.",2.46,263.39,2007,Miscellaneous,Business Services
+CTRN,nasdaq,"Citi Trends, Inc.",17.59,262.83,2005,Consumer Services,Clothing/Shoe/Accessory Stores
+DSPG,nasdaq,"DSP Group, Inc.",11.90,262.60,1994,Technology,Semiconductors
+WLDN,nasdaq,"Willdan Group, Inc.",30.65,257.89,2006,Consumer Services,Military/Government/Technical
+DVAX,nasdaq,Dynavax Technologies Corporation,5.60,249.93,2004,Health Care,Major Pharmaceuticals
+TTGT,nasdaq,"TechTarget, Inc.",9.01,247.08,2007,Miscellaneous,Business Services
+KOPN,nasdaq,Kopin Corporation,3.65,246.54,1992,Technology,Semiconductors
+IMMR,nasdaq,Immersion Corporation,8.29,240.28,1999,Technology,Computer peripheral equipment
+WMAR,nasdaq,"West Marine, Inc.",9.52,238.02,1993,Consumer Durables,Automotive Aftermarket
+LYTS,nasdaq,LSI Industries Inc.,9.13,228.76,1985,Consumer Durables,Building Products
+LQDT,nasdaq,"Liquidity Services, Inc.",7.25,227.58,2006,Miscellaneous,Business Services
+EMKR,nasdaq,EMCORE Corporation,8.50,225.97,1997,Technology,Semiconductors
+CLCT,nasdaq,"Collectors Universe, Inc.",25.23,225.08,1999,Miscellaneous,Business Services
+RTIX,nasdaq,"RTI Surgical, Inc.",3.85,223.76,2000,Health Care,Industrial Specialties
+AUDC,nasdaq,AudioCodes Ltd.,6.77,219.42,1999,Public Utilities,Telecommunications Equipment
+CGEN,nasdaq,Compugen Ltd.,4.25,217.31,2000,Health Care,Biotechnology: Biological Products (No Diagnos...
+DGAS,nasdaq,"Delta Natural Gas Company, Inc.",30.24,215.56,1981,Public Utilities,Oil & Gas Production
+CVGI,nasdaq,"Commercial Vehicle Group, Inc.",6.95,214.42,2004,Capital Goods,Auto Parts:O.E.M.
+SIGM,nasdaq,"Sigma Designs, Inc.",5.60,213.66,1986,Technology,Semiconductors
+PFBI,nasdaq,"Premier Financial Bancorp, Inc.",20.05,213.35,1996,Finance,Major Banks
+SHLO,nasdaq,"Shiloh Industries, Inc.",11.69,208.53,1993,Capital Goods,Industrial Specialties
+RDCM,nasdaq,Radcom Ltd.,17.65,206.00,1997,Technology,Computer peripheral equipment
+AREX,nasdaq,Approach Resources Inc.,2.49,201.45,2007,Energy,Oil & Gas Production
+ZEUS,nasdaq,"Olympic Steel, Inc.",18.10,198.45,1994,Basic Industries,Metal Fabrications
+EHTH,nasdaq,"eHealth, Inc.",10.74,197.15,2006,Finance,Specialty Insurers
+IGLD,nasdaq,Internet Gold Golden Lines Ltd.,10.12,194.34,1999,Public Utilities,Telecommunications Equipment
+KIRK,nasdaq,"Kirkland&#39;s, Inc.",12.19,194.02,2002,Consumer Services,Other Specialty Stores
+GUID,nasdaq,"Guidance Software, Inc.",5.88,192.02,2006,Technology,Computer Software: Prepackaged Software
+AXTI,nasdaq,AXT Inc,5.75,189.93,1998,Technology,Semiconductors
+AVID,nasdaq,"Avid Technology, Inc.",4.61,188.39,1993,Technology,Computer Software: Prepackaged Software
+LMIA,nasdaq,"LMI Aerospace, Inc.",13.83,188.38,1998,Capital Goods,Military/Government/Technical
+UFPT,nasdaq,"UFP Technologies, Inc.",24.95,180.17,1993,Capital Goods,Containers/Packaging
+BCBP,nasdaq,"BCB Bancorp, Inc. (NJ)",15.80,178.37,2005,Finance,Savings Institutions
+SALM,nasdaq,"Salem Media Group, Inc.",6.85,178.18,1999,Consumer Services,Broadcasting
+PMBC,nasdaq,Pacific Mercantile Bancorp,7.45,172.59,2000,Finance,Major Banks
+NCIT,nasdaq,"NCI, Inc.",12.70,172.01,2005,Technology,EDP Services
+GAIA,nasdaq,"Gaia, Inc.",11.30,171.22,1999,Consumer Services,Movies/Entertainment
+ENOC,nasdaq,"EnerNOC, Inc.",5.60,170.41,2007,Technology,"Computer Software: Programming, Data Processing"
+RICK,nasdaq,"RCI Hospitality Holdings, Inc.",17.02,165.41,1995,Consumer Services,Restaurants
+GIFI,nasdaq,"Gulf Island Fabrication, Inc.",11.10,164.84,1997,Capital Goods,Metal Fabrications
+ROIA,nasdaq,"Radio One, Inc.",3.40,164.31,1999,Consumer Services,Broadcasting
+LGCY,nasdaq,Legacy Reserves LP,2.25,163.41,2007,Energy,Oil & Gas Production
+LAYN,nasdaq,Layne Christensen Company,8.10,160.42,1992,Basic Industries,Engineering & Construction
+CYBE,nasdaq,CyberOptics Corporation,23.10,160.39,1987,Capital Goods,Electronic Components
+VALU,nasdaq,"Value Line, Inc.",16.48,160.11,1983,Finance,Investment Managers
+RNWK,nasdaq,"RealNetworks, Inc.",4.29,158.81,1997,Technology,EDP Services
+ALLT,nasdaq,Allot Communications Ltd.,4.75,157.29,2006,Technology,Computer Communications Equipment
+RAIL,nasdaq,"Freightcar America, Inc.",12.53,155.63,2005,Capital Goods,Railroads
+GSIT,nasdaq,"GSI Technology, Inc.",7.63,155.53,2007,Technology,Semiconductors
+TUES,nasdaq,Tuesday Morning Corp.,3.40,153.21,1999,Consumer Services,Department/Specialty Retail Stores
+MAGS,nasdaq,Magal Security Systems Ltd.,6.53,149.68,1993,Consumer Durables,Telecommunications Equipment
+GASS,nasdaq,"StealthGas, Inc.",3.71,147.93,2005,Transportation,Marine Transportation
+RSYS,nasdaq,RadiSys Corporation,3.76,146.23,1995,Technology,Computer peripheral equipment
+CPRX,nasdaq,"Catalyst Pharmaceuticals, Inc.",1.76,146.03,2006,Health Care,Major Pharmaceuticals
+WLFC,nasdaq,Willis Lease Finance Corporation,22.32,142.84,1996,Consumer Durables,Industrial Specialties
+PRGX,nasdaq,"PRGX Global, Inc.",6.50,142.42,1996,Consumer Services,Diversified Commercial Services
+MVIS,nasdaq,"Microvision, Inc.",2.05,139.65,1996,Capital Goods,Industrial Machinery/Components
+AIQ,nasdaq,"Alliance HealthCare Services, Inc.",12.85,138.95,2001,Health Care,Medical Specialities
+AMCN,nasdaq,AirMedia Group Inc,3.16,138.63,2007,Technology,Advertising
+KVHI,nasdaq,"KVH Industries, Inc.",8.05,136.07,1996,Technology,Radio And Television Broadcasting And Communic...
+TRIB,nasdaq,Trinity Biotech plc,5.62,134.63,1992,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic S...
+HDNG,nasdaq,Hardinge Inc.,10.33,133.53,1995,Capital Goods,Industrial Machinery/Components
+LAND,nasdaq,Gladstone Land Corporation,11.27,131.91,1993,Consumer Services,Real Estate Investment Trusts
+CAMT,nasdaq,Camtek Ltd.,3.73,131.85,2000,Capital Goods,Electronic Components
+ABTL,nasdaq,Autobytel Inc.,11.82,130.27,1999,Technology,"Computer Software: Programming, Data Processing"
+USAP,nasdaq,"Universal Stainless & Alloy Products, Inc.",17.06,128.09,1994,Basic Industries,Steel/Iron Ore
+MNKD,nasdaq,MannKind Corporation,1.33,127.38,2004,Health Care,Major Pharmaceuticals
+DRRX,nasdaq,DURECT Corporation,0.90,127.02,2000,Health Care,Major Pharmaceuticals
+PXLW,nasdaq,"Pixelworks, Inc.",4.26,125.79,2000,Technology,Semiconductors
+NWPX,nasdaq,Northwest Pipe Company,13.05,125.34,1995,Basic Industries,Steel/Iron Ore
+PRTS,nasdaq,"U.S. Auto Parts Network, Inc.",3.62,124.08,2007,Consumer Services,Other Specialty Stores
+QUIK,nasdaq,QuickLogic Corporation,1.57,122.80,1999,Technology,Semiconductors
+SMRT,nasdaq,"Stein Mart, Inc.",2.60,122.25,1992,Consumer Services,Clothing/Shoe/Accessory Stores
+PFSW,nasdaq,"PFSweb, Inc.",6.51,121.97,1999,Miscellaneous,Business Services
+PCTI,nasdaq,"PC-Tel, Inc.",6.94,120.29,1999,Technology,Radio And Television Broadcasting And Communic...
+JAKK,nasdaq,"JAKKS Pacific, Inc.",5.10,118.36,1996,Consumer Non-Durables,Recreational Products/Toys
+IRIX,nasdaq,IRIDEX Corporation,10.22,117.77,1996,Health Care,Biotechnology: Electromedical & Electrotherape...
+PBIB,nasdaq,"Porter Bancorp, Inc.",9.28,115.53,2006,Finance,Major Banks
+TESS,nasdaq,TESSCO Technologies Incorporated,13.80,114.95,1994,Consumer Non-Durables,Electronic Components
+CTIC,nasdaq,CTI BioPharma Corp.,4.04,114.03,1997,Health Care,Major Pharmaceuticals
+FONR,nasdaq,Fonar Corporation,17.85,112.22,1981,Health Care,Biotechnology: Electromedical & Electrotherape...
+MCHX,nasdaq,"Marchex, Inc.",2.60,112.06,2004,Miscellaneous,Business Services
+ALSK,nasdaq,"Alaska Communications Systems Group, Inc.",2.15,111.70,1999,Public Utilities,Telecommunications Equipment
+ALOT,nasdaq,"AstroNova, Inc.",14.80,110.60,1983,Technology,Computer peripheral equipment
+VVUS,nasdaq,"VIVUS, Inc.",1.03,108.75,1994,Health Care,Major Pharmaceuticals
+CPSS,nasdaq,"Consumer Portfolio Services, Inc.",4.61,108.62,1992,Finance,Finance: Consumer Services
+HWCC,nasdaq,Houston Wire & Cable Company,6.50,107.29,2006,Consumer Non-Durables,Telecommunications Equipment
+AWRE,nasdaq,"Aware, Inc.",4.70,104.44,1996,Technology,Computer Software: Prepackaged Software
+CPIX,nasdaq,Cumberland Pharmaceuticals Inc.,6.50,104.09,2009,Health Care,Major Pharmaceuticals
+MSON,nasdaq,"MISONIX, Inc.",11.45,103.32,1992,Capital Goods,Medical Specialities
+DRAD,nasdaq,Digirad Corporation,5.15,102.89,2004,Health Care,Biotechnology: Electromedical & Electrotherape...
+AMSC,nasdaq,American Superconductor Corporation,6.82,96.98,1991,Consumer Durables,Metal Fabrications
+INTX,nasdaq,"Intersections, Inc.",4.03,96.46,2004,Technology,EDP Services
+PTSI,nasdaq,"P.A.M. Transportation Services, Inc.",14.79,94.67,1986,Transportation,Trucking Freight/Courier Services
+IDSY,nasdaq,"I.D. Systems, Inc.",6.37,89.71,1999,Consumer Durables,Telecommunications Equipment
+ARIS,nasdaq,"ARI Network Services, Inc.",5.10,89.39,1991,Technology,"Computer Software: Programming, Data Processing"
+SEAC,nasdaq,"SeaChange International, Inc.",2.52,88.72,1996,Technology,Radio And Television Broadcasting And Communic...
+CLUB,nasdaq,"Town Sports International Holdings, Inc.",3.25,86.74,2006,Consumer Services,Hotels/Resorts
+IPAS,nasdaq,iPass Inc.,1.31,86.18,2003,Technology,EDP Services
+ULBI,nasdaq,Ultralife Corporation,5.59,85.95,1992,Miscellaneous,Industrial Machinery/Components
+DWCH,nasdaq,Datawatch Corporation,7.15,85.76,1992,Technology,Computer Software: Prepackaged Software
+KTEC,nasdaq,"Key Technology, Inc.",13.11,83.94,1993,Technology,Industrial Machinery/Components
+HBIO,nasdaq,"Harvard Bioscience, Inc.",2.40,83.09,2000,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+RCKY,nasdaq,"Rocky Brands, Inc.",11.05,82.16,1993,Consumer Non-Durables,Shoe Manufacturing
+ARTX,nasdaq,Arotech Corporation,3.10,81.87,1994,Miscellaneous,Industrial Machinery/Components
+PRCP,nasdaq,"Perceptron, Inc.",8.54,80.20,1992,Capital Goods,Electronic Components
+ARQL,nasdaq,"ArQule, Inc.",1.09,77.54,1996,Health Care,Major Pharmaceuticals
+SNSS,nasdaq,"Sunesis Pharmaceuticals, Inc.",3.70,77.42,2005,Health Care,Major Pharmaceuticals
+KTCC,nasdaq,Key Tronic Corporation,7.17,77.15,1983,Technology,Computer peripheral equipment
+EVEP,nasdaq,"EV Energy Partners, L.P.",1.55,76.52,2006,Energy,Oil & Gas Production
+SNAK,nasdaq,"Inventure Foods, Inc.",3.88,76.39,1996,Consumer Non-Durables,Packaged Foods
+RELL,nasdaq,"Richardson Electronics, Ltd.",5.94,76.32,1983,Consumer Non-Durables,Electronic Components
+AEHR,nasdaq,Aehr Test Systems,4.45,74.70,1997,Capital Goods,Electrical Products
+EDAP,nasdaq,EDAP TMS S.A.,2.54,73.84,1997,Health Care,Biotechnology: Electromedical & Electrotherape...
+LAKE,nasdaq,"Lakeland Industries, Inc.",10.05,72.98,1986,Health Care,Industrial Specialties
+UTSI,nasdaq,UTStarcom Holdings Corp,2.00,72.92,2000,Consumer Durables,Telecommunications Equipment
+GTXI,nasdaq,"GTx, Inc.",4.37,70.10,2004,Health Care,Major Pharmaceuticals
+JRJC,nasdaq,China Finance Online Co. Limited,3.26,69.18,2004,Finance,Investment Bankers/Brokers/Service
+LINC,nasdaq,Lincoln Educational Services Corporation,2.77,68.62,2005,Consumer Services,Other Consumer Services
+MRVC,nasdaq,"MRV Communications, Inc.",9.90,67.34,1992,Technology,Semiconductors
+BSQR,nasdaq,BSQUARE Corporation,5.10,63.96,1999,Miscellaneous,Business Services
+NLST,nasdaq,"Netlist, Inc.",0.99,61.06,2006,Technology,Semiconductors
+LPTH,nasdaq,"LightPath Technologies, Inc.",2.56,60.74,1996,Technology,Semiconductors
+TACT,nasdaq,TransAct Technologies Incorporated,8.25,60.61,1996,Technology,Computer peripheral equipment
+SPAN,nasdaq,"Span-America Medical Systems, Inc.",21.90,60.35,1983,Health Care,Industrial Specialties
+EVOL,nasdaq,"Evolving Systems, Inc.",4.71,58.72,1998,Technology,EDP Services
+LTRX,nasdaq,"Lantronix, Inc.",3.30,57.65,2000,Technology,Computer Communications Equipment
+MIND,nasdaq,"Mitcham Industries, Inc.",4.73,57.18,1994,Technology,Diversified Commercial Services
+USAK,nasdaq,"USA Truck, Inc.",6.82,56.07,1992,Transportation,Trucking Freight/Courier Services
+KONA,nasdaq,"Kona Grill, Inc.",5.45,54.94,2005,Consumer Services,Restaurants
+INOD,nasdaq,Innodata Inc.,2.05,52.53,1993,Technology,EDP Services
+ASFI,nasdaq,"Asta Funding, Inc.",8.00,52.50,1995,Finance,Finance Companies
+CYTR,nasdaq,CytRx Corporation,0.44,51.07,1986,Health Care,Biotechnology: Biological Products (No Diagnos...
+ISSC,nasdaq,"Innovative Solutions and Support, Inc.",3.01,50.45,2000,Technology,EDP Services
+XOMA,nasdaq,XOMA Corporation,6.52,49.46,1986,Health Care,Major Pharmaceuticals
+LUNA,nasdaq,Luna Innovations Incorporated,1.73,47.65,2006,Health Care,Biotechnology: Commercial Physical & Biologica...
+ATAI,nasdaq,ATA Inc.,3.67,46.77,2008,Consumer Services,Other Consumer Services
+EEI,nasdaq,"Ecology and Environment, Inc.",10.56,45.36,1987,Consumer Services,Military/Government/Technical
+WSTL,nasdaq,"Westell Technologies, Inc.",0.69,42.78,1995,Public Utilities,Telecommunications Equipment
+OBAS,nasdaq,Optibase Ltd.,8.20,42.76,1999,Finance,Real Estate
+SNMX,nasdaq,"Senomyx, Inc.",0.90,41.55,2004,Health Care,Biotechnology: Commercial Physical & Biologica...
+SPRT,nasdaq,"support.com, Inc.",2.23,41.38,2000,Technology,EDP Services
+ATLC,nasdaq,Atlanticus Holdings Corporation,2.61,40.27,1995,Finance,Finance: Consumer Services
+CSPI,nasdaq,CSP Inc.,10.36,39.57,1982,Technology,EDP Services
+THLD,nasdaq,"Threshold Pharmaceuticals, Inc.",0.55,39.38,2005,Health Care,Major Pharmaceuticals
+REXX,nasdaq,Rex Energy Corporation,0.40,39.01,2007,Energy,Oil & Gas Production
+ETRM,nasdaq,EnteroMedics Inc.,5.66,38.91,2007,Health Care,Biotechnology: Electromedical & Electrotherape...
+DAIO,nasdaq,Data I/O Corporation,4.80,38.63,1981,Capital Goods,Electrical Products
+PTIE,nasdaq,Pain Therapeutics,0.82,38.03,2000,Health Care,Major Pharmaceuticals
+EGAN,nasdaq,eGain Corporation,1.35,36.59,1999,Technology,Computer Software: Prepackaged Software
+PRKR,nasdaq,"ParkerVision, Inc.",2.04,36.10,1993,Technology,Radio And Television Broadcasting And Communic...
+ONVI,nasdaq,"Onvia, Inc.",4.30,31.02,2000,Miscellaneous,Business Services
+DSWL,nasdaq,"Deswell Industries, Inc.",1.91,30.67,1995,Consumer Non-Durables,Plastic Products
+GRVY,nasdaq,"GRAVITY Co., Ltd.",18.72,30.64,2005,Miscellaneous,Business Services
+BEBE,nasdaq,"bebe stores, inc.",3.74,30.15,1998,Consumer Non-Durables,Apparel
+OREX,nasdaq,"Orexigen Therapeutics, Inc.",2.61,29.35,2007,Health Care,Major Pharmaceuticals
+EMMS,nasdaq,Emmis Communications Corporation,2.30,28.51,1994,Consumer Services,Broadcasting
+CPST,nasdaq,Capstone Turbine Corporation,0.79,28.04,2000,Energy,Industrial Machinery/Components
+NEOT,nasdaq,"Neothetics, Inc.",1.97,27.24,1996,Health Care,Major Pharmaceuticals
+JVA,nasdaq,"Coffee Holding Co., Inc.",4.63,27.15,2005,Consumer Non-Durables,Food Distributors
+ELON,nasdaq,Echelon Corporation,5.98,26.52,1998,Technology,Computer Communications Equipment
+ICCC,nasdaq,ImmuCell Corporation,5.35,25.94,1987,Health Care,Biotechnology: In Vitro & In Vivo Diagnostic S...
+TORM,nasdaq,TOR Minerals International Inc,7.02,24.85,1988,Basic Industries,Major Chemicals
+VICL,nasdaq,Vical Incorporated,2.12,23.52,1993,Health Care,Biotechnology: Biological Products (No Diagnos...
+ATEC,nasdaq,"Alphatec Holdings, Inc.",2.13,23.07,2006,Health Care,Medical/Dental Instruments
+NCTY,nasdaq,The9 Limited,1.21,22.96,2004,Miscellaneous,Business Services
+TISA,nasdaq,"Top Image Systems, Ltd.",1.27,22.76,1996,Technology,Computer peripheral equipment
+ARDM,nasdaq,Aradigm Corporation,1.51,22.58,1996,Health Care,Biotechnology: Electromedical & Electrotherape...
+BVSN,nasdaq,"BroadVision, Inc.",4.40,21.81,1996,Technology,Computer Software: Prepackaged Software
+SGMA,nasdaq,"SigmaTron International, Inc.",5.11,21.39,1994,Technology,Electrical Products
+CTIB,nasdaq,CTI Industries Corporation,5.89,20.75,1997,Basic Industries,Specialty Chemicals
+SMTX,nasdaq,SMTC Corporation,1.24,20.74,2000,Technology,Electrical Products
+RBCN,nasdaq,"Rubicon Technology, Inc.",0.76,20.42,2007,Technology,Semiconductors
+CTHR,nasdaq,Charles & Colvard Ltd,0.92,19.68,1997,Consumer Durables,Consumer Specialties
+DRYS,nasdaq,DryShips Inc.,2.01,19.10,2005,Transportation,Marine Transportation
+SCON,nasdaq,Superconductor Technologies Inc.,1.67,17.67,1993,Technology,Radio And Television Broadcasting And Communic...
+CBLI,nasdaq,"Cleveland BioLabs, Inc.",1.56,17.14,2006,Health Care,Biotechnology: Commercial Physical & Biologica...
+ISIG,nasdaq,"Insignia Systems, Inc.",1.31,15.28,1991,Consumer Services,Advertising
+ISNS,nasdaq,"Image Sensing Systems, Inc.",2.85,14.52,1995,Capital Goods,Industrial Machinery/Components
+GNVC,nasdaq,"GenVec, Inc.",5.92,13.46,2000,Health Care,Major Pharmaceuticals
+BONT,nasdaq,"The Bon-Ton Stores, Inc.",0.60,13.02,1991,Consumer Services,Department/Specialty Retail Stores
+OPTT,nasdaq,"Ocean Power Technologies, Inc.",1.83,11.55,2007,Public Utilities,Electric Utilities: Central
+DRWI,nasdaq,DragonWave Inc,1.35,11.48,2009,Public Utilities,Telecommunications Equipment
+STAF,nasdaq,"Staffing 360 Solutions, Inc.",1.00,11.39,1996,Technology,Professional Services
+SMSI,nasdaq,"Smith Micro Software, Inc.",0.89,10.95,1995,Technology,Computer Software: Prepackaged Software
+BASI,nasdaq,"Bioanalytical Systems, Inc.",1.27,10.30,1997,Health Care,Biotechnology: Commercial Physical & Biologica...
+RTK,nasdaq,"Rentech, Inc.",0.40,9.34,1991,Basic Industries,Agricultural Chemicals
+FFHL,nasdaq,"Fuwei Films (Holdings) Co., Ltd.",2.82,9.21,2006,Capital Goods,Specialty Chemicals
+RCON,nasdaq,"Recon Technology, Ltd.",1.36,8.47,2009,Energy,Oilfield Services/Equipment
+QBAK,nasdaq,Qualstar Corporation,4.15,8.47,2000,Technology,Electronic Components
+MOSY,nasdaq,"MoSys, Inc.",1.25,8.30,2001,Technology,Semiconductors
+AHPI,nasdaq,"Allied Healthcare Products, Inc.",1.98,7.95,1992,Health Care,Industrial Specialties
+CMLS,nasdaq,Cumulus Media Inc.,0.27,7.85,1998,Consumer Services,Broadcasting
+GIGA,nasdaq,Giga-tronics Incorporated,0.81,7.74,1983,Capital Goods,Electrical Products
+CLWT,nasdaq,Euro Tech Holdings Company Limited,3.60,7.42,1997,Consumer Durables,Diversified Electronic Products
+CHCI,nasdaq,"Comstock Holding Companies, Inc.",2.04,6.97,2004,Capital Goods,Homebuilding
+ELTK,nasdaq,Eltek Ltd.,0.67,6.80,1997,Technology,Electrical Products
+DCTH,nasdaq,"Delcath Systems, Inc.",0.06,6.71,2000,Health Care,Medical/Dental Instruments
+TAIT,nasdaq,Taitron Components Incorporated,1.17,6.47,1995,Consumer Non-Durables,Electronic Components
+ROSG,nasdaq,Rosetta Genomics Ltd.,2.71,5.06,2007,Health Care,Major Pharmaceuticals
+NURO,nasdaq,"NeuroMetrix, Inc.",0.60,5.06,2004,Health Care,Medical/Dental Instruments
+MTSL,nasdaq,MER Telemanagement Solutions Ltd.,0.56,4.90,1997,Public Utilities,Telecommunications Equipment
+CRDS,nasdaq,"Crossroads Systems, Inc.",3.94,4.83,1999,Technology,Computer peripheral equipment
+ACN,nyse,Accenture plc,114.86,73634.67,2001,Miscellaneous,Business Services
+ATV,nyse,"Acorn International, Inc.",9.38,35.89,2007,Consumer Services,Other Specialty Stores
+ACM,nyse,AECOM,32.61,5064.84,2007,Consumer Services,Military/Government/Technical
+ANW,nyse,Aegean Marine Petroleum Network Inc.,11.75,462.99,2006,Energy,Oil Refining/Marketing
+AER,nyse,Aercap Holdings N.V.,43.03,7583.92,2006,Technology,Diversified Commercial Services
+A,nyse,"Agilent Technologies, Inc.",52.33,16866.01,1999,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+AYR,nyse,Aircastle Limited,22.71,1787.68,2006,Technology,Diversified Commercial Services
+ADS,nyse,Alliance Data Systems Corporation,234.91,13137.41,2001,Miscellaneous,Business Services
+NFJ,nyse,"AllianzGI NFJ Dividend, Interest & Premium Str...",13.03,1235.26,2005,Finance,Finance: Consumer Services
+AWH,nyse,"Allied World Assurance Company Holdings, AG",53.10,4636.53,2006,Finance,Property-Casualty Insurers
+ALJ,nyse,"Alon USA Energy, Inc.",11.22,805.16,2005,Energy,Integrated oil Companies
+ACH,nyse,Aluminum Corporation of China Limited,12.37,7374.40,2001,Basic Industries,Aluminum
+ACC,nyse,American Campus Communities Inc,48.00,6404.92,2004,Consumer Services,Real Estate Investment Trusts
+AEL,nyse,American Equity Investment Life Holding Company,22.52,1988.06,2003,Finance,Life Insurance
+AWK,nyse,American Water Works,78.57,13963.99,2008,Public Utilities,Water Supply
+AIV,nyse,Apartment Investment and Management Company,43.99,6907.19,1994,Consumer Services,Real Estate Investment Trusts
+ARI,nyse,Apollo Commercial Real Estate Finance,18.72,1715.15,2009,Consumer Services,Real Estate Investment Trusts
+ABR,nyse,Arbor Realty Trust,8.50,436.91,2004,Consumer Services,Real Estate Investment Trusts
+ARC,nyse,"ARC Document Solutions, Inc.",3.48,161.15,2004,Consumer Services,Professional Services
+ABG,nyse,Asbury Automotive Group Inc,57.55,1216.93,2002,Consumer Durables,Automotive Aftermarket
+AHT,nyse,Ashford Hospitality Trust Inc,6.40,619.06,2003,Consumer Services,Real Estate Investment Trusts
+AHL,nyse,Aspen Insurance Holdings Limited,50.20,3009.24,2003,Finance,Property-Casualty Insurers
+AIZ,nyse,"Assurant, Inc.",92.68,5132.09,2004,Finance,Accident &Health Insurance
+AGO,nyse,Assured Guaranty Ltd.,37.67,4676.01,2004,Finance,Property-Casualty Insurers
+AUO,nyse,AU Optronics Corp,4.13,3974.81,2002,Technology,Semiconductors
+AXS,nyse,Axis Capital Holdings Limited,65.04,5599.34,2003,Finance,Property-Casualty Insurers
+BLX,nyse,"Banco Latinoamericano de Comercio Exterior, S.A.",27.60,1080.81,1992,Finance,Commercial Banks
+BSBR,nyse,Banco Santander Brasil SA,7.55,57101.27,2009,Finance,Commercial Banks
+BAS,nyse,"Basic Energy Services, Inc.",33.88,880.84,2005,Energy,Oilfield Services/Equipment
+BZH,nyse,"Beazer Homes USA, Inc.",11.87,398.17,1994,Capital Goods,Homebuilding
+BBG,nyse,Bill Barrett Corporation,4.02,306.71,2004,Energy,Oil & Gas Production
+BLK,nyse,"BlackRock, Inc.",379.00,62094.53,1999,Finance,Investment Bankers/Brokers/Service
+BXC,nyse,BlueLinx Holdings Inc.,9.24,83.25,2004,Capital Goods,Wholesale Distributors
+BWP,nyse,Boardwalk Pipeline Partners L.P.,18.21,4557.90,2005,Public Utilities,Natural Gas Distribution
+BXP,nyse,"Boston Properties, Inc.",135.52,20849.65,1997,Consumer Services,Real Estate Investment Trusts
+BYD,nyse,Boyd Gaming Corporation,21.38,2420.77,1993,Consumer Services,Hotels/Resorts
+BPI,nyse,"Bridgepoint Education, Inc.",11.10,315.75,2009,Consumer Services,Other Consumer Services
+BKD,nyse,Brookdale Senior Living Inc.,12.93,2397.84,2005,Health Care,Hospital/Nursing Management
+BPL,nyse,Buckeye Partners L.P.,67.62,9498.06,1986,Energy,Natural Gas Distribution
+BVN,nyse,Buenaventura Mining Company Inc.,12.36,3139.28,1996,Basic Industries,Precious Metals
+BBW,nyse,"Build-A-Bear Workshop, Inc.",8.30,132.83,2004,Consumer Services,Recreational Products/Toys
+BG,nyse,Bunge Limited,76.51,10673.82,2001,Consumer Non-Durables,Packaged Foods
+CAB,nyse,Cabela&#39;s Inc,53.39,3658.18,2004,Consumer Services,Other Specialty Stores
+COG,nyse,Cabot Oil & Gas Corporation,24.00,11172.52,1990,Energy,Oil & Gas Production
+ELY,nyse,Callaway Golf Company,11.49,1077.69,1992,Consumer Non-Durables,Recreational Products/Toys
+CBM,nyse,Cambrex Corporation,55.00,1869.17,1987,Health Care,Major Pharmaceuticals
+CPT,nyse,Camden Property Trust,81.19,7355.08,1993,Consumer Services,Real Estate Investment Trusts
+CCJ,nyse,Cameco Corporation,11.11,4397.25,1996,Basic Industries,Precious Metals
+COF,nyse,Capital One Financial Corporation,81.02,39108.95,1994,Finance,Major Banks
+CSU,nyse,Capital Senior Living Corporation,13.53,406.37,1997,Health Care,Hospital/Nursing Management
+CCL,nyse,Carnival Corporation,57.47,41536.63,1987,Consumer Services,Marine Transportation
+CRI,nyse,"Carter&#39;s, Inc.",88.26,4285.07,2003,Consumer Non-Durables,Apparel
+CBL,nyse,"CBL & Associates Properties, Inc.",9.37,1603.17,1993,Consumer Services,Real Estate Investment Trusts
+CBG,nyse,"CBRE Group, Inc.",32.64,11028.22,2004,Finance,Real Estate
+FUN,nyse,"Cedar Fair, L.P.",68.35,3841.25,1987,Consumer Services,Services-Misc. Amusement & Recreation
+CE,nyse,Celanese Corporation,89.16,12545.87,2005,Basic Industries,Major Chemicals
+CLS,nyse,"Celestica, Inc.",14.23,1767.19,1998,Technology,Electrical Products
+CEL,nyse,"Cellcom Israel, Ltd.",9.71,976.86,2007,Public Utilities,Telecommunications Equipment
+CF,nyse,"CF Industries Holdings, Inc.",28.42,6627.11,2005,Basic Industries,Agricultural Chemicals
+CRL,nyse,"Charles River Laboratories International, Inc.",87.38,4161.46,2000,Health Care,Biotechnology: Commercial Physical & Biologica...
+CBI,nyse,Chicago Bridge & Iron Company N.V.,28.94,2913.38,1997,Basic Industries,Engineering & Construction
+CIM,nyse,Chimera Investment Corporation,20.58,3863.68,2007,Consumer Services,Real Estate Investment Trusts
+STV,nyse,"China Digital TV Holding Co., Ltd.",1.27,81.44,2007,Technology,Computer Software: Prepackaged Software
+CEA,nyse,China Eastern Airlines Corporation Ltd.,27.94,8084.49,1997,Transportation,Air Freight/Delivery Services
+LFC,nyse,China Life Insurance Company Limited,14.60,82532.94,2003,Finance,Life Insurance
+ZNH,nyse,China Southern Airlines Company Limited,34.92,6856.59,1997,Transportation,Air Freight/Delivery Services
+CHA,nyse,China Telecom Corp Ltd,49.94,40417.44,2002,Public Utilities,Telecommunications Equipment
+CYD,nyse,China Yuchai International Limited,17.64,693.22,1994,Energy,Industrial Machinery/Components
+CMG,nyse,"Chipotle Mexican Grill, Inc.",463.62,13298.10,2006,Consumer Services,Restaurants
+CIEN,nyse,Ciena Corporation,21.66,3060.93,1997,Public Utilities,Telecommunications Equipment
+CNK,nyse,Cinemark Holdings Inc,42.05,4894.55,2007,Consumer Services,Movies/Entertainment
+BLW,nyse,Citigroup Inc.,15.68,580.22,2003,Finance,Major Banks
+CWEI,nyse,"Clayton Williams Energy, Inc.",133.60,2355.28,1993,Energy,Oil & Gas Production
+CCO,nyse,"Clear Channel Outdoor Holdings, Inc.",6.05,2191.92,2005,Consumer Services,Advertising
+CLD,nyse,Cloud Peak Energy Inc,4.34,325.74,2009,Energy,Coal Mining
+CEO,nyse,CNOOC Limited,119.92,1210.63,2001,Energy,Oil & Gas Production
+CIE,nyse,"Cobalt International Energy, Inc.",0.45,201.74,2009,Energy,Oil & Gas Production
+KOF,nyse,Coca Cola Femsa S.A.B. de C.V.,72.98,15128.02,1993,Consumer Non-Durables,Beverages (Production/Distribution)
+CNS,nyse,Cohen & Steers Inc,39.90,1846.78,2004,Finance,Investment Managers
+CFX,nyse,Colfax Corporation,38.29,4709.25,2008,Capital Goods,Fluid Controls
+FIX,nyse,"Comfort Systems USA, Inc.",34.95,1301.71,1997,Capital Goods,Engineering & Construction
+CYH,nyse,"Community Health Systems, Inc.",9.10,1043.64,2000,Health Care,Hospital/Nursing Management
+CBD,nyse,Companhia Brasileira de Distribuicao,18.43,4904.67,1997,Consumer Services,Food Chains
+SBS,nyse,Companhia de saneamento Basico Do Estado De Sa...,10.12,6917.12,2002,Public Utilities,Water Supply
+CODI,nyse,Compass Diversified Holdings,16.85,1009.32,2006,Consumer Durables,Home Furnishings
+CMP,nyse,"Compass Minerals International, Inc.",67.95,2296.49,2003,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No...
+CXO,nyse,Concho Resources Inc.,130.14,19282.97,2007,Energy,Oil & Gas Production
+CCM,nyse,Concord Medical Services Holdings Limited,4.66,206.58,2009,Health Care,Medical/Nursing Services
+CNX,nyse,CONSOL Energy Inc.,15.87,3650.41,1999,Energy,Coal Mining
+CLR,nyse,"Continental Resources, Inc.",44.97,16880.88,2007,Energy,Oil & Gas Production
+CVG,nyse,Convergys Corporation,21.24,2008.54,1998,Technology,EDP Services
+CPA,nyse,"Copa Holdings, S.A.",114.57,4817.60,2005,Transportation,Air Freight/Delivery Services
+CLB,nyse,Core Laboratories N.V.,114.53,5059.06,1995,Energy,Oilfield Services/Equipment
+CPL,nyse,CPFL Energia S.A.,16.27,8280.74,2004,Public Utilities,Electric Utilities: Central
+CRT,nyse,Cross Timbers Royalty Trust,16.26,97.56,1992,Energy,Oil & Gas Production
+CVI,nyse,CVR Energy Inc.,17.67,1534.30,2007,Energy,Integrated oil Companies
+CYS,nyse,"CYS Investments, Inc.",8.12,1231.87,2009,Consumer Services,Real Estate Investment Trusts
+DAC,nyse,Danaos Corporation,1.80,197.64,2006,Transportation,Marine Transportation
+DCT,nyse,DCT Industrial Trust Inc,50.61,4652.27,2006,Consumer Services,Real Estate Investment Trusts
+DDR,nyse,DDR Corp.,12.65,4637.58,1993,Consumer Services,Real Estate Investment Trusts
+DECK,nyse,Deckers Outdoor Corporation,56.04,1789.77,1993,Consumer Non-Durables,Shoe Manufacturing
+DK,nyse,"Delek US Holdings, Inc.",22.32,1384.37,2006,Energy,Integrated oil Companies
+DHX,nyse,"DHI Group, Inc.",4.10,206.65,2007,Miscellaneous,Business Services
+DHT,nyse,"DHT Holdings, Inc.",4.50,425.80,2005,Transportation,Marine Transportation
+DO,nyse,"Diamond Offshore Drilling, Inc.",15.23,2089.26,1995,Energy,Oil & Gas Production
+DRH,nyse,Diamondrock Hospitality Company,11.04,2217.80,2005,Consumer Services,Real Estate Investment Trusts
+DSX,nyse,Diana Shipping inc.,5.49,464.98,2005,Transportation,Marine Transportation
+DKS,nyse,Dick&#39;s Sporting Goods Inc,49.66,5601.48,2002,Consumer Services,Other Specialty Stores
+DLR,nyse,"Digital Realty Trust, Inc.",109.61,17478.21,2004,Consumer Services,Real Estate Investment Trusts
+DGI,nyse,"DigitalGlobe, Inc",32.75,2022.49,2009,Consumer Services,Telecommunications Equipment
+DLB,nyse,Dolby Laboratories,50.95,5193.88,2005,Miscellaneous,Multi-Sector Companies
+DG,nyse,Dollar General Corporation,68.74,18910.05,2009,Consumer Services,Department/Specialty Retail Stores
+DPZ,nyse,Domino&#39;s Pizza Inc,174.04,8360.12,2004,Consumer Non-Durables,Food Distributors
+DEI,nyse,"Douglas Emmett, Inc.",38.95,5963.02,2006,Consumer Services,Real Estate Investment Trusts
+DVD,nyse,"Dover Motorsports, Inc.",2.10,77.47,1996,Consumer Services,Services-Misc. Amusement & Recreation
+DRQ,nyse,"Dril-Quip, Inc.",53.20,1996.46,1997,Energy,Metal Fabrications
+DST,nyse,"DST Systems, Inc.",120.97,3806.43,1995,Technology,EDP Services
+DSW,nyse,DSW Inc.,19.58,1570.19,2005,Consumer Services,Clothing/Shoe/Accessory Stores
+DFT,nyse,"Dupont Fabros Technology, Inc.",50.66,3926.05,2007,Finance,Real Estate
+EDR,nyse,Education Realty Trust Inc.,39.74,2908.06,2005,Consumer Services,Real Estate Investment Trusts
+ERJ,nyse,Embraer-Empresa Brasileira de Aeronautica,20.01,3674.63,2000,Capital Goods,Aerospace
+EBS,nyse,"Emergent Biosolutions, Inc.",29.16,1186.45,2006,Health Care,Major Pharmaceuticals
+EIG,nyse,Employers Holdings Inc,36.85,1184.57,2007,Finance,Property-Casualty Insurers
+EDN,nyse,Empresa Distribuidora Y Comercializadora Norte...,35.33,1601.25,2007,Public Utilities,Electric Utilities: Central
+EEQ,nyse,Enbridge Energy Management LLC,17.62,1479.79,2002,Energy,Oil & Gas Production
+ETE,nyse,"Energy Transfer Equity, L.P.",18.40,19857.00,2006,Public Utilities,Natural Gas Distribution
+ENS,nyse,Enersys,75.91,3296.78,2004,Consumer Non-Durables,Telecommunications Equipment
+ETM,nyse,Entercom Communications Corporation,13.10,531.56,1999,Consumer Services,Broadcasting
+EVC,nyse,Entravision Communications Corporation,6.10,550.29,2000,Consumer Services,Broadcasting
+EPR,nyse,EPR Properties,75.05,5475.43,1997,Consumer Services,Real Estate Investment Trusts
+ESS,nyse,"Essex Property Trust, Inc.",233.57,15312.39,1994,Consumer Services,Real Estate Investment Trusts
+EL,nyse,"Estee Lauder Companies, Inc. (The)",84.94,31122.51,1995,Consumer Non-Durables,Package Goods/Cosmetics
+ETH,nyse,Ethan Allen Interiors Inc.,29.20,808.55,1993,Consumer Durables,Home Furnishings
+EVR,nyse,Evercore Partners Inc,73.80,3033.90,2006,Finance,Investment Managers
+EXAR,nyse,Exar Corporation,12.97,663.97,1985,Technology,Semiconductors
+XCO,nyse,EXCO Resources NL,0.54,151.92,2006,Energy,Oil & Gas Production
+EXR,nyse,Extra Space Storage Inc,78.10,9833.75,2004,Consumer Services,Real Estate Investment Trusts
+FDS,nyse,FactSet Research Systems Inc.,157.92,6231.25,1996,Technology,"Computer Software: Programming, Data Processing"
+FFG,nyse,"FBL Financial Group, Inc.",63.60,1584.78,1996,Finance,Life Insurance
+FII,nyse,"Federated Investors, Inc.",26.24,2667.96,1998,Finance,Investment Managers
+FGP,nyse,"Ferrellgas Partners, L.P.",5.97,580.00,1994,Consumer Services,Other Specialty Stores
+FBR,nyse,Fibria Celulose S.A.,9.12,4998.58,1997,Basic Industries,Paper
+FCFS,nyse,"First Cash, Inc.",47.70,2303.42,1991,Consumer Services,Other Specialty Stores
+FR,nyse,"First Industrial Realty Trust, Inc.",27.95,3277.82,1994,Consumer Services,Real Estate Investment Trusts
+FPO,nyse,First Potomac Realty Trust,10.69,627.64,2003,Consumer Services,Real Estate Investment Trusts
+FIG,nyse,Fortress Investment Group LLC,7.97,3086.11,2007,Finance,Investment Managers
+FDP,nyse,"Fresh Del Monte Produce, Inc.",58.42,2963.52,1997,Consumer Non-Durables,Farming/Seeds/Milling
+GFA,nyse,Gafisa SA,16.07,16.08,2007,Basic Industries,Homebuilding
+GBL,nyse,"Gamco Investors, Inc.",27.83,816.63,1999,Finance,Investment Bankers/Brokers/Service
+GME,nyse,Gamestop Corporation,22.38,2265.10,2002,Consumer Services,Electronics Distribution
+IT,nyse,"Gartner, Inc.",108.93,9848.82,1993,Consumer Services,Other Consumer Services
+BGC,nyse,General Cable Corporation,16.25,808.31,1997,Basic Industries,Telecommunications Equipment
+GEL,nyse,"Genesis Energy, L.P.",31.77,3893.07,1996,Energy,Oil Refining/Marketing
+G,nyse,Genpact Limited,23.83,4584.70,2007,Consumer Services,Professional Services
+GNW,nyse,Genworth Financial Inc,4.00,1995.72,2004,Finance,Life Insurance
+GIL,nyse,"Gildan Activewear, Inc.",26.99,6131.66,1998,Consumer Non-Durables,Apparel
+GLP,nyse,Global Partners LP,19.50,662.91,2005,Energy,Oil Refining/Marketing
+GOL,nyse,Gol Linhas Aereas Inteligentes S.A.,30.89,16181.48,2004,Transportation,Air Freight/Delivery Services
+GS,nyse,"Goldman Sachs Group, Inc. (The)",223.32,88840.59,1999,Finance,Investment Bankers/Brokers/Service
+GBX,nyse,"Greenbrier Companies, Inc. (The)",44.10,1252.45,1994,Capital Goods,Railroads
+GHL,nyse,"Greenhill & Co., Inc.",26.10,771.90,2004,Finance,Investment Bankers/Brokers/Service
+GPI,nyse,"Group 1 Automotive, Inc.",66.31,1423.91,1997,Consumer Durables,Automotive Aftermarket
+PAC,nyse,"Grupo Aeroportuario Del Pacifico, S.A. de C.V.",100.60,5643.66,2006,Transportation,Aerospace
+TV,nyse,Grupo Televisa S.A.,25.77,15042.46,1993,Consumer Services,Broadcasting
+GES,nyse,"Guess?, Inc.",10.88,900.45,1996,Consumer Non-Durables,Apparel
+HAE,nyse,Haemonetics Corporation,40.15,2087.97,1991,Health Care,Medical/Dental Instruments
+HHS,nyse,"Harte-Hanks, Inc.",1.28,78.85,1993,Technology,Advertising
+HDB,nyse,HDFC Bank Limited,77.21,65516.13,2001,Finance,Commercial Banks
+HR,nyse,Healthcare Realty Trust Incorporated,33.37,3887.62,1993,Consumer Services,Real Estate Investment Trusts
+HLF,nyse,Herbalife LTD.,58.14,5411.99,2004,Health Care,Other Pharmaceuticals
+HT,nyse,Hersha Hospitality Trust,18.74,782.81,1999,Consumer Services,Real Estate Investment Trusts
+HF,nyse,"HFF, Inc.",26.59,1016.47,2007,Consumer Services,Real Estate
+HIW,nyse,"Highwoods Properties, Inc.",50.94,5189.65,1994,Consumer Services,Real Estate Investment Trusts
+HEP,nyse,"Holly Energy Partners, L.P.",35.88,2252.56,2004,Energy,Natural Gas Distribution
+HMN,nyse,Horace Mann Educators Corporation,37.15,1503.54,1991,Finance,Property-Casualty Insurers
+HOS,nyse,Hornbeck Offshore Services,3.60,131.28,2004,Consumer Services,Marine Transportation
+HNP,nyse,"Huaneng Power International, Inc.",27.46,10435.06,1994,Public Utilities,Electric Utilities: Central
+HGT,nyse,Hugoton Royalty Trust,2.10,84.00,1999,Energy,Oil & Gas Production
+HUN,nyse,Huntsman Corporation,23.38,5602.41,2005,Basic Industries,Major Chemicals
+H,nyse,Hyatt Hotels Corporation,53.90,6762.36,2009,Consumer Services,Hotels/Resorts
+IEX,nyse,IDEX Corporation,91.72,7000.64,1989,Capital Goods,Fluid Controls
+IBA,nyse,"Industrias Bachoco, S.A. de C.V.",53.54,2677.00,1997,Consumer Non-Durables,Meat/Poultry/Fish
+ING,nyse,"ING Group, N.V.",14.60,56625.86,1997,Finance,Commercial Banks
+ICE,nyse,Intercontinental Exchange Inc.,59.42,35263.02,2005,Finance,Investment Bankers/Brokers/Service
+IPI,nyse,"Intrepid Potash, Inc",1.81,233.94,2008,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No...
+IVR,nyse,INVESCO MORTGAGE CAPITAL INC,15.77,1760.00,2009,Consumer Services,Real Estate Investment Trusts
+JBL,nyse,"Jabil Circuit, Inc.",28.24,5147.88,1993,Technology,Electrical Products
+JMP,nyse,JMP Group LLC,5.79,121.43,2007,Finance,Investment Bankers/Brokers/Service
+JNPR,nyse,"Juniper Networks, Inc.",27.56,10540.79,1999,Technology,Computer Communications Equipment
+KAR,nyse,"KAR Auction Services, Inc",41.92,5731.66,2009,Consumer Durables,Automotive Aftermarket
+KBH,nyse,KB Home,20.09,1713.14,1986,Capital Goods,Homebuilding
+KBR,nyse,"KBR, Inc.",14.62,2092.72,2006,Basic Industries,Military/Government/Technical
+KRC,nyse,Kilroy Realty Corporation,73.75,7210.84,1997,Consumer Services,Real Estate Investment Trusts
+KRG,nyse,Kite Realty Group Trust,21.24,1775.26,2004,Consumer Services,Real Estate Investment Trusts
+KNL,nyse,"Knoll, Inc.",23.55,1162.57,2004,Consumer Durables,Office Equipment/Supplies/Services
+KSS,nyse,Kohl&#39;s Corporation,39.45,6799.46,1992,Consumer Services,Department/Specialty Retail Stores
+KOP,nyse,Koppers Holdings Inc.,40.40,840.45,2006,Basic Industries,Forest Products
+KEP,nyse,Korea Electric Power Corporation,19.84,25473.13,1994,Public Utilities,Electric Utilities: Central
+KFY,nyse,Korn/Ferry International,30.53,1745.13,1999,Technology,Diversified Commercial Services
+KRA,nyse,Kraton Corporation,30.76,952.64,2009,Basic Industries,Major Chemicals
+LVS,nyse,Las Vegas Sands Corp.,55.90,44384.30,2004,Consumer Services,Hotels/Resorts
+LHO,nyse,LaSalle Hotel Properties,28.74,3249.85,1998,Consumer Services,Real Estate Investment Trusts
+LAZ,nyse,Lazard Ltd.,44.61,5788.87,2005,Finance,Investment Managers
+LII,nyse,"Lennox International, Inc.",165.23,7010.86,1999,Capital Goods,Industrial Machinery/Components
+LPL,nyse,"LG Display Co., Ltd.",13.54,9689.65,2004,Capital Goods,Industrial Machinery/Components
+LL,nyse,"Lumber Liquidators Holdings, Inc",21.56,609.04,2007,Consumer Services,RETAIL: Building Materials
+LUX,nyse,"Luxottica Group, S.p.A.",54.77,26317.39,1990,Health Care,Ophthalmic Goods
+MHO,nyse,"M/I Homes, Inc.",24.61,666.75,1993,Capital Goods,Homebuilding
+MAC,nyse,Macerich Company (The),65.48,9422.89,1994,Consumer Services,Real Estate Investment Trusts
+MIC,nyse,Macquarie Infrastructure Company,78.88,6486.20,2004,Energy,Oil Refining/Marketing
+HZO,nyse,"MarineMax, Inc.",20.70,540.54,1998,Consumer Services,Other Specialty Stores
+MKL,nyse,Markel Corporation,961.82,13426.54,1986,Finance,Property-Casualty Insurers
+MLM,nyse,"Martin Marietta Materials, Inc.",210.11,13251.04,1994,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No...
+MA,nyse,Mastercard Incorporated,111.22,123330.09,2006,Miscellaneous,Business Services
+MMS,nyse,"Maximus, Inc.",57.62,3734.56,1997,Miscellaneous,Business Services
+MBI,nyse,"MBIA, Inc.",8.69,1171.60,1987,Finance,Property-Casualty Insurers
+MNI,nyse,McClatchy Company (The),9.83,74.67,1988,Consumer Services,Newspapers/Magazines
+MJN,nyse,Mead Johnson Nutrition Company,88.67,16276.71,2009,Consumer Non-Durables,Packaged Foods
+MTL,nyse,Mechel PAO,5.49,1142.66,2004,Basic Industries,Steel/Iron Ore
+MPW,nyse,"Medical Properties Trust, Inc.",13.90,4460.99,2005,Consumer Services,Real Estate Investment Trusts
+MET,nyse,"MetLife, Inc.",51.12,55580.58,2000,Finance,Life Insurance
+MTD,nyse,"Mettler-Toledo International, Inc.",473.87,12275.88,1997,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+MTG,nyse,MGIC Investment Corporation,10.60,3614.50,1991,Finance,Property-Casualty Insurers
+MAA,nyse,"Mid-America Apartment Communities, Inc.",101.09,11478.29,1994,Consumer Services,Real Estate Investment Trusts
+MTX,nyse,Minerals Technologies Inc.,73.15,2565.92,1992,Basic Industries,Major Chemicals
+MG,nyse,Mistras Group Inc,20.54,588.92,2009,Consumer Services,Military/Government/Technical
+MOH,nyse,Molina Healthcare Inc,47.67,2718.55,2003,Health Care,Medical Specialities
+MSM,nyse,"MSC Industrial Direct Company, Inc.",89.23,5080.59,1995,Capital Goods,Industrial Machinery/Components
+MWA,nyse,MUELLER WATER PRODUCTS,11.70,1898.47,2006,Capital Goods,Metal Fabrications
+MVO,nyse,MV Oil Trust,7.00,80.50,2007,Energy,Oil & Gas Production
+NGS,nyse,"Natural Gas Services Group, Inc.",28.00,361.42,2002,Energy,Oilfield Services/Equipment
+NRP,nyse,Natural Resource Partners LP,35.15,429.96,2002,Energy,Coal Mining
+NTZ,nyse,"Natuzzi, S.p.A.",3.07,168.40,1993,Consumer Durables,Home Furnishings
+NMM,nyse,Navios Maritime Partners LP,2.07,179.19,2007,Transportation,Marine Transportation
+NNI,nyse,"Nelnet, Inc.",43.12,1815.52,2003,Finance,Finance: Consumer Services
+NSR,nyse,"Neustar, Inc.",33.20,1831.05,2005,Consumer Services,Telecommunications Equipment
+EDU,nyse,"New Oriental Education & Technology Group, Inc.",59.39,9350.33,2006,Consumer Services,Other Consumer Services
+NWY,nyse,"New York & Company, Inc.",1.72,110.85,2004,Consumer Services,Clothing/Shoe/Accessory Stores
+NFX,nyse,Newfield Exploration Company,35.39,7041.42,1993,Energy,Oil & Gas Production
+NOK,nyse,Nokia Corporation,5.22,30464.21,1994,Technology,Radio And Television Broadcasting And Communic...
+NTL,nyse,Nortel Inversora SA,27.20,3699.67,1997,Public Utilities,Telecommunications Equipment
+NOA,nyse,"North American Energy Partners, Inc.",5.10,160.47,2006,Energy,Oilfield Services/Equipment
+NUS,nyse,"Nu Skin Enterprises, Inc.",54.01,2852.92,1996,Health Care,Other Pharmaceuticals
+OZM,nyse,Och-Ziff Capital Management Group LLC,2.20,994.95,2007,Finance,Investment Managers
+OIS,nyse,"Oil States International, Inc.",32.35,1670.72,2001,Energy,Metal Fabrications
+OHI,nyse,"Omega Healthcare Investors, Inc.",34.06,6701.08,1992,Consumer Services,Real Estate Investment Trusts
+OME,nyse,Omega Protein Corporation,19.40,434.87,1998,Consumer Non-Durables,Packaged Foods
+ASGN,nyse,"On Assignment, Inc.",46.07,2425.75,1992,Technology,Professional Services
+OB,nyse,"OneBeacon Insurance Group, Ltd.",15.83,1492.46,2006,Finance,Property-Casualty Insurers
+ORCL,nyse,Oracle Corporation,44.00,181046.10,1986,Technology,Computer Software: Prepackaged Software
+ORA,nyse,"Ormat Technologies, Inc.",57.24,2844.43,2004,Public Utilities,Electric Utilities: Central
+PKG,nyse,Packaging Corporation of America,90.02,8480.45,2000,Consumer Durables,Containers/Packaging
+PEB,nyse,Pebblebrook Hotel Trust,29.59,2133.96,2009,Consumer Services,Real Estate Investment Trusts
+PMT,nyse,PennyMac Mortgage Investment Trust,17.60,1173.94,2009,Consumer Services,Real Estate Investment Trusts
+PGTI,nyse,"PGT Innovations, Inc.",10.30,507.98,2006,Capital Goods,Building Products
+PHH,nyse,PHH Corp,12.85,688.75,2002,Finance,Diversified Financial Services
+PAA,nyse,"Plains All American Pipeline, L.P.",30.72,22223.00,1998,Energy,Natural Gas Distribution
+PLT,nyse,"Plantronics, Inc.",51.47,1707.91,1994,Public Utilities,Telecommunications Equipment
+PKX,nyse,POSCO,57.49,20049.48,1994,Basic Industries,Steel/Iron Ore
+POT,nyse,Potash Corporation of Saskatchewan Inc.,16.55,13902.12,1989,Basic Industries,Agricultural Chemicals
+PBH,nyse,"Prestige Brand Holdings, Inc.",56.24,2977.13,2005,Health Care,Major Pharmaceuticals
+PFG,nyse,Principal Financial Group Inc,61.51,17734.26,2001,Finance,Accident &Health Insurance
+PRO,nyse,"PROS Holdings, Inc.",22.51,706.85,2007,Technology,EDP Services
+PFS,nyse,"Provident Financial Services, Inc",24.47,1625.98,2003,Finance,Savings Institutions
+PRU,nyse,"Prudential Financial, Inc.",102.92,44293.68,2001,Finance,Life Insurance
+PZN,nyse,Pzena Investment Management Inc,10.29,705.13,2007,Finance,Investment Managers
+RAS,nyse,RAIT Financial Trust,3.07,283.87,1998,Consumer Services,Real Estate Investment Trusts
+RL,nyse,Ralph Lauren Corporation,79.15,6507.13,1997,Consumer Non-Durables,Apparel
+RWT,nyse,"Redwood Trust, Inc.",16.77,1291.84,1995,Consumer Services,Real Estate Investment Trusts
+RGC,nyse,Regal Entertainment Group,22.01,3456.58,2002,Consumer Services,Movies/Entertainment
+REG,nyse,Regency Centers Corporation,67.31,11431.77,1993,Consumer Services,Real Estate Investment Trusts
+RGS,nyse,Regis Corporation,11.15,516.11,1991,Consumer Services,Other Consumer Services
+RS,nyse,Reliance Steel & Aluminum Co.,75.87,5529.38,1994,Basic Industries,Metal Fabrications
+SOL,nyse,Renesola Ltd.,2.50,50.80,2008,Technology,Semiconductors
+RSG,nyse,"Republic Services, Inc.",62.19,21101.82,1998,Public Utilities,Environmental Services
+RSO,nyse,Resource Capital Corp.,9.52,298.91,2006,Consumer Services,Real Estate Investment Trusts
+REV,nyse,"Revlon, Inc.",25.95,1362.90,1996,Consumer Non-Durables,Package Goods/Cosmetics
+RIO,nyse,Rio Tinto Plc,38.94,70431.48,2002,Basic Industries,Precious Metals
+ROP,nyse,"Roper Technologies, Inc.",205.01,20885.24,1992,Capital Goods,Industrial Machinery/Components
+RST,nyse,Rosetta Stone,10.77,238.50,2009,Technology,Computer Software: Prepackaged Software
+RCL,nyse,Royal Caribbean Cruises Ltd.,94.36,20268.89,1993,Consumer Services,Marine Transportation
+RTEC,nyse,"Rudolph Technologies, Inc.",21.05,657.58,1999,Capital Goods,Industrial Machinery/Components
+SB,nyse,"Safe Bulkers, Inc",2.43,241.24,2008,Transportation,Marine Transportation
+CRM,nyse,Salesforce.com Inc,83.13,58814.47,2004,Technology,Computer Software: Prepackaged Software
+BFS,nyse,"Saul Centers, Inc.",62.86,1351.49,1993,Consumer Services,Real Estate Investment Trusts
+SMG,nyse,Scotts Miracle-Gro Company (The),93.44,5591.65,1992,Basic Industries,Agricultural Chemicals
+SSW,nyse,Seaspan Corporation,6.80,720.08,2005,Transportation,Marine Transportation
+SEM,nyse,Select Medical Holdings Corporation,13.20,1751.85,2009,Health Care,Hospital/Nursing Management
+SMI,nyse,Semiconductor  Manufacturing International Cor...,5.96,5039.19,2004,Technology,Semiconductors
+SKX,nyse,"Skechers U.S.A., Inc.",24.97,3953.17,1999,Consumer Non-Durables,Shoe Manufacturing
+SLG,nyse,SL Green Realty Corporation,107.85,10847.52,1997,Consumer Services,Real Estate Investment Trusts
+SQM,nyse,Sociedad Quimica y Minera S.A.,36.99,9735.64,1993,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No...
+SAH,nyse,"Sonic Automotive, Inc.",18.85,846.09,1997,Consumer Durables,Automotive Aftermarket
+BID,nyse,Sotheby&#39;s,43.94,2346.93,1988,Miscellaneous,Business Services
+SEP,nyse,"Spectra Energy Partners, LP",44.13,13629.47,2007,Public Utilities,Natural Gas Distribution
+TRK,nyse,"Speedway Motorsports, Inc.",19.04,782.22,1995,Consumer Services,Services-Misc. Amusement & Recreation
+SPR,nyse,"Spirit Aerosystems Holdings, Inc.",55.90,6659.17,2006,Capital Goods,Military/Government/Technical
+SRT,nyse,"StarTek, Inc.",8.73,138.07,1997,Technology,Professional Services
+STWD,nyse,"STARWOOD PROPERTY TRUST, INC.",22.79,5409.35,2009,Consumer Services,Real Estate Investment Trusts
+SCS,nyse,Steelcase Inc.,16.10,1888.83,1998,Consumer Durables,Office Equipment/Supplies/Services
+SGY,nyse,Stone Energy Corporation,20.26,405.22,1993,Energy,Oil & Gas Production
+STON,nyse,StoneMor Partners L.P.,7.89,298.74,2004,Consumer Services,Other Consumer Services
+SRI,nyse,"Stoneridge, Inc.",17.17,479.22,1997,Capital Goods,Auto Parts:O.E.M.
+SPH,nyse,"Suburban Propane Partners, L.P.",25.75,1572.24,1996,Consumer Services,Other Specialty Stores
+SUI,nyse,"Sun Communities, Inc.",82.02,6048.07,1993,Consumer Services,Real Estate Investment Trusts
+SXL,nyse,Sunoco Logistics Partners LP,23.80,7896.95,2002,Energy,Natural Gas Distribution
+SHO,nyse,"Sunstone Hotel Investors, Inc.",15.14,3337.12,2004,Consumer Services,Hotels/Resorts
+SNX,nyse,Synnex Corporation,105.66,4217.37,2003,Technology,Retail: Computer Software & Peripheral Equipment
+TSM,nyse,Taiwan Semiconductor Manufacturing Company Ltd.,31.83,165070.38,1997,Technology,Semiconductors
+SKT,nyse,"Tanger Factory Outlet Centers, Inc.",32.60,3144.47,1993,Consumer Services,Real Estate Investment Trusts
+TCO,nyse,"Taubman Centers, Inc.",65.85,3984.88,1992,Consumer Services,Real Estate Investment Trusts
+TGP,nyse,Teekay LNG Partners L.P.,16.90,1344.77,2005,Consumer Services,Marine Transportation
+TOO,nyse,Teekay Offshore Partners L.P.,5.47,794.05,2006,Consumer Services,Marine Transportation
+TNK,nyse,Teekay Tankers Ltd.,2.02,315.73,2007,Consumer Services,Marine Transportation
+TEF,nyse,Telefonica SA,10.84,54609.81,1988,Public Utilities,Telecommunications Equipment
+TPX,nyse,"Tempur Sealy International, Inc.",41.11,2215.23,2003,Consumer Durables,Home Furnishings
+TGH,nyse,Textainer Group Holdings Limited,14.10,800.80,2007,Technology,Diversified Commercial Services
+BX,nyse,The Blackstone Group L.P.,28.86,32920.52,2007,Finance,Investment Managers
+TIF,nyse,Tiffany & Co.,91.18,11376.99,1987,Consumer Services,Consumer Specialties
+TDG,nyse,Transdigm Group Incorporated,233.76,12352.93,2006,Capital Goods,Military/Government/Technical
+TLP,nyse,TransMontaigne Partners L.P.,44.36,716.91,2005,Energy,Natural Gas Distribution
+GTS,nyse,Triple-S Management Corporation,17.87,433.74,2007,Finance,Accident &Health Insurance
+TGI,nyse,"Triumph Group, Inc.",25.00,1239.33,1996,Capital Goods,Aerospace
+TNP,nyse,Tsakos Energy Navigation Ltd,4.76,401.13,2002,Transportation,Marine Transportation
+USPH,nyse,"U.S. Physical Therapy, Inc.",63.25,792.01,1992,Health Care,Medical/Nursing Services
+UPS,nyse,"United Parcel Service, Inc.",103.74,90180.89,1999,Transportation,Trucking Freight/Courier Services
+URI,nyse,"United Rentals, Inc.",119.29,10074.68,1997,Technology,Diversified Commercial Services
+USM,nyse,United States Cellular Corporation,37.47,3179.29,1988,Public Utilities,Telecommunications Equipment
+UTI,nyse,Universal Technical Institute Inc,3.50,86.39,2003,Consumer Services,Other Consumer Services
+MTN,nyse,"Vail Resorts, Inc.",186.61,7461.42,1997,Consumer Services,Services-Misc. Amusement & Recreation
+VR,nyse,"Validus Holdings, Ltd.",55.06,4493.15,2007,Finance,Property-Casualty Insurers
+PAY,nyse,"Verifone Systems, Inc.",17.45,1947.68,2005,Miscellaneous,Office Equipment/Supplies/Services
+VCO,nyse,Vina Concha Y Toro,34.70,1296.06,1994,Consumer Non-Durables,Beverages (Production/Distribution)
+VSI,nyse,"Vitamin Shoppe, Inc",19.10,447.42,2009,Consumer Non-Durables,Food Chains
+VMW,nyse,"Vmware, Inc.",90.81,37164.05,2007,Technology,Computer Software: Prepackaged Software
+VG,nyse,Vonage Holdings Corp.,6.20,1362.01,2006,Public Utilities,Telecommunications Equipment
+WTI,nyse,"W&T Offshore, Inc.",2.49,342.81,2005,Energy,Oil & Gas Production
+WNC,nyse,Wabash National Corporation,19.74,1193.25,1991,Capital Goods,Construction/Ag Equipment/Trucks
+WDR,nyse,"Waddell & Reed Financial, Inc.",16.60,1398.94,1998,Finance,Investment Bankers/Brokers/Service
+WAT,nyse,Waters Corporation,155.69,12466.96,1995,Capital Goods,Biotechnology: Laboratory Analytical Instruments
+WTS,nyse,"Watts Water Technologies, Inc.",59.35,2029.74,1986,Capital Goods,Metal Fabrications
+WTW,nyse,Weight Watchers International Inc,17.03,1090.33,2001,Consumer Services,Other Consumer Services
+WCG,nyse,"WellCare Health Plans, Inc.",144.81,6442.70,2004,Health Care,Medical Specialities
+WCC,nyse,"WESCO International, Inc.",65.35,3467.48,1999,Consumer Non-Durables,Telecommunications Equipment
+WAL,nyse,Western Alliance Bancorporation,45.70,4813.62,2005,Finance,Major Banks
+WES,nyse,"Western Gas Partners, LP",59.91,8568.93,2008,Public Utilities,Natural Gas Distribution
+WNR,nyse,"Western Refining, Inc.",34.54,3754.44,2006,Energy,Integrated oil Companies
+WLK,nyse,Westlake Chemical Corporation,62.71,8092.26,2004,Basic Industries,Major Chemicals
+WLL,nyse,Whiting Petroleum Corporation,8.56,3151.21,2003,Energy,Oil & Gas Production
+WG,nyse,"Willbros Group, Inc.",2.50,156.63,1996,Energy,Oilfield Services/Equipment
+WNS,nyse,WNS (Holdings) Limited,28.95,1445.92,2006,Miscellaneous,Business Services
+XRM,nyse,"Xerium Technologies, Inc.",6.34,102.41,2005,Basic Industries,Textiles
+XIN,nyse,Xinyuan Real Estate Co Ltd,4.28,281.25,2007,Basic Industries,Homebuilding
+YGE,nyse,Yingli Green Energy Holding Company Limited,2.81,51.08,2007,Technology,Semiconductors
+YPF,nyse,YPF Sociedad Anonima,25.78,10139.60,1993,Energy,Integrated oil Companies
